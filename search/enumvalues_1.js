@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['classifier_5fpipe_5fentry_18973',['CLASSIFIER_PIPE_ENTRY',['../flow__drop__sample_8c.html#ae6b1d710db91ad987bcabcd11a89bc38a703ba1c9f101cf9cd1bc088b0cc8d822',1,'flow_drop_sample.c']]],
+  ['client_18974',['CLIENT',['../file__compression__core_8h.html#ae7cf0e14717726866340b2e703459d6ba48e4cb37544c8e69715d45e5a83b2109',1,'CLIENT():&#160;file_compression_core.h'],['../file__integrity__core_8h.html#a54e04bb481a24aa8128a41a735955b8ca48e4cb37544c8e69715d45e5a83b2109',1,'CLIENT():&#160;file_integrity_core.h']]],
+  ['comch_5fcomplete_18975',['COMCH_COMPLETE',['../dma__copy__core_8h.html#a583d803aa151c3ec7caacb9c3dbaf80ea074d32a3d24ef56358b7acf6e7f7073b',1,'dma_copy_core.h']]],
+  ['comch_5ferror_18976',['COMCH_ERROR',['../dma__copy__core_8h.html#a583d803aa151c3ec7caacb9c3dbaf80ea04dffee87412967eaa41dff914e17d4c',1,'dma_copy_core.h']]],
+  ['comch_5fmsg_5fdirection_18977',['COMCH_MSG_DIRECTION',['../dma__copy__core_8h.html#af904ee65670125fc48c2885317136045aaef89d3ebb38c197bc239c20e6ffdcd6',1,'dma_copy_core.h']]],
+  ['comch_5fmsg_5fexport_5fdescriptor_18978',['COMCH_MSG_EXPORT_DESCRIPTOR',['../dma__copy__core_8h.html#af904ee65670125fc48c2885317136045a136a7fd35474e622ebae8299d1db6558',1,'dma_copy_core.h']]],
+  ['comch_5fmsg_5fstatus_18979',['COMCH_MSG_STATUS',['../dma__copy__core_8h.html#af904ee65670125fc48c2885317136045acf062acda8e55b50053420c528c0ff26',1,'dma_copy_core.h']]],
+  ['comch_5fmsg_5ftype_5fbind_5fsq_5fdb_18980',['COMCH_MSG_TYPE_BIND_SQ_DB',['../doca__transport__common_8h.html#af904ee65670125fc48c2885317136045ab5f09958179eaa5a1d8a2bc0fa9d3a19',1,'doca_transport_common.h']]],
+  ['comch_5fmsg_5ftype_5fbind_5fsq_5fdb_5fdone_18981',['COMCH_MSG_TYPE_BIND_SQ_DB_DONE',['../doca__transport__common_8h.html#af904ee65670125fc48c2885317136045a0c41c4f5771f362f33852dfd9dbdccdc',1,'doca_transport_common.h']]],
+  ['comch_5fmsg_5ftype_5fhost_5fdb_18982',['COMCH_MSG_TYPE_HOST_DB',['../doca__transport__common_8h.html#af904ee65670125fc48c2885317136045a4bd3899a48124cf5fa7280082341bbe1',1,'doca_transport_common.h']]],
+  ['comch_5fmsg_5ftype_5fraise_5fmsix_18983',['COMCH_MSG_TYPE_RAISE_MSIX',['../doca__transport__common_8h.html#af904ee65670125fc48c2885317136045a0470bb37a249c5f62302977359f7d867',1,'doca_transport_common.h']]],
+  ['comch_5fmsg_5ftype_5funbind_5fsq_5fdb_18984',['COMCH_MSG_TYPE_UNBIND_SQ_DB',['../doca__transport__common_8h.html#af904ee65670125fc48c2885317136045a86c114bc579c28d91220457f821788c7',1,'doca_transport_common.h']]],
+  ['comch_5fmsg_5ftype_5funbind_5fsq_5fdb_5fdone_18985',['COMCH_MSG_TYPE_UNBIND_SQ_DB_DONE',['../doca__transport__common_8h.html#af904ee65670125fc48c2885317136045a50f7de6a8e140c1fb3f4e83415c8ee13',1,'doca_transport_common.h']]],
+  ['comch_5fnegotiating_18986',['COMCH_NEGOTIATING',['../dma__copy__core_8h.html#a583d803aa151c3ec7caacb9c3dbaf80eaaa41ca5b2e6281d18fae94855bd90e64',1,'dma_copy_core.h']]],
+  ['compress_5fdeflate_5fhw_18987',['COMPRESS_DEFLATE_HW',['../file__compression__core_8h.html#af9c89257e7a407e779fe5a139902881bab3107c606de20a822e184327d30aff4b',1,'file_compression_core.h']]],
+  ['compress_5fdeflate_5fsw_18988',['COMPRESS_DEFLATE_SW',['../file__compression__core_8h.html#af9c89257e7a407e779fe5a139902881ba4dcf16b45635e75dd1cfb30c4f263118',1,'file_compression_core.h']]],
+  ['compress_5fmode_5fcompress_5fdeflate_18989',['COMPRESS_MODE_COMPRESS_DEFLATE',['../compress__common_8h.html#a18aba969d6e9d5d7d9a153852240f06ba762f919045032ebbe997c4c7b5108d0e',1,'compress_common.h']]],
+  ['compress_5fmode_5fdecompress_5fdeflate_18990',['COMPRESS_MODE_DECOMPRESS_DEFLATE',['../compress__common_8h.html#a18aba969d6e9d5d7d9a153852240f06bab050b47134510840fc65c0292db8eff4',1,'compress_common.h']]],
+  ['compress_5fmode_5fdecompress_5flz4_5fstream_18991',['COMPRESS_MODE_DECOMPRESS_LZ4_STREAM',['../compress__common_8h.html#a18aba969d6e9d5d7d9a153852240f06ba355dc4d1fe95eacb2090713609366b3f',1,'compress_common.h']]],
+  ['connected_18992',['connected',['../classstorage_1_1tcp__socket.html#a894258fb149926abb913110c8789f043a06aa6fa8bdc2078e7e1bd903e70c8f6a',1,'storage::tcp_socket']]],
+  ['create_5frdma_5fconnection_5frequest_18993',['create_rdma_connection_request',['../namespacestorage_1_1control.html#a34dd613f0dbef5c0be7a698f5f0a8430ac5f7e787fe3680f8b29b7700a0152b87',1,'storage::control']]],
+  ['create_5frdma_5fconnection_5fresponse_18994',['create_rdma_connection_response',['../namespacestorage_1_1control.html#a34dd613f0dbef5c0be7a698f5f0a8430acb28c7eae61607c7d1053a2de181d6f1',1,'storage::control']]]
+];

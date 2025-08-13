@@ -1,0 +1,12 @@
+<map id="lcore_params" name="lcore_params">
+<area shape="rect" id="node1" title="The parameters needed by each L&#45;Core&#39;s main loop." alt="" coords="905,98,1016,125"/>
+<area shape="rect" id="node2" href="$classPSP__GatewayImpl.html" title="Implementation of the PSP_Gateway service." alt="" coords="643,17,783,43"/>
+<area shape="rect" id="node3" title=" " alt="" coords="304,5,508,47"/>
+<area shape="rect" id="node4" href="$structpsp__pf__dev.html" title="Maintains the state of the host PF." alt="" coords="665,71,761,98"/>
+<area shape="rect" id="node5" href="$structdoca__flow__ip__addr.html" title="doca flow ip address" alt="" coords="335,71,477,98"/>
+<area shape="rect" id="node6" href="$structpsp__gw__app__config.html" title="describes the configuration of the PSP networking service on the local host." alt="" coords="639,122,787,149"/>
+<area shape="rect" id="node7" href="$structpsp__gw__net__config.html" title="describes a network of peers which participate in a network of PSP tunnel connections." alt="" coords="333,122,479,149"/>
+<area shape="rect" id="node8" href="$structapplication__dpdk__config.html" title=" " alt="" coords="317,173,495,199"/>
+<area shape="rect" id="node9" href="$structapplication__port__config.html" title=" " alt="" coords="5,173,179,199"/>
+<area shape="rect" id="node10" href="$classPSP__GatewayFlows.html" title="The entity which owns all the doca flow shared resources and flow pipes (but not sessions)." alt="" coords="639,173,788,199"/>
+</map>

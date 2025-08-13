@@ -1,0 +1,26 @@
+var doca__utils_8hpp =
+[
+    [ "rdma_conn_pair", "structstorage_1_1rdma__conn__pair.html", "structstorage_1_1rdma__conn__pair" ],
+    [ "value_requirement", "structstorage_1_1value__requirement.html", "structstorage_1_1value__requirement" ],
+    [ "value_multiplicity", "structstorage_1_1value__multiplicity.html", "structstorage_1_1value__multiplicity" ],
+    [ "create_doca_logger_backend", "doca__utils_8hpp.html#a511dd9c8941f5685d97f07fd0d90fbb6", null ],
+    [ "get_buffer_bytes", "doca__utils_8hpp.html#a8d90e35a305cf94b646427fab641a3cb", null ],
+    [ "get_buffer_bytes", "doca__utils_8hpp.html#aae039b1fb375760ed075a9a8c46efc0a", null ],
+    [ "is_ctx_running", "doca__utils_8hpp.html#aba5e168c23ffed89cff6d3e791a6f561", null ],
+    [ "make_buf_inventory", "doca__utils_8hpp.html#a4ede5c659db86bc5b05cf9719fbd1ffa", null ],
+    [ "make_comch_consumer", "doca__utils_8hpp.html#aaf23267bd1168c5347d012dcfffa042d", null ],
+    [ "make_comch_producer", "doca__utils_8hpp.html#a6802f309beb1a013137804cada67a73f", null ],
+    [ "make_mmap", "doca__utils_8hpp.html#a154b9315c85d637db2b18e88819772df", null ],
+    [ "make_mmap", "doca__utils_8hpp.html#a28913d4d88073a4370e09a39271949a8", null ],
+    [ "make_rdma_context", "doca__utils_8hpp.html#a68f9545c56f019d536593d9a545a0fb0", null ],
+    [ "matrix_type_from_string", "doca__utils_8hpp.html#a82c0133eb74d9ff0c36f7c5070a7d58a", null ],
+    [ "open_device", "doca__utils_8hpp.html#afd2802d3f4768e4611f14f8e0916f332", null ],
+    [ "open_representor", "doca__utils_8hpp.html#aa3bb67d9cddd2c452d6c2d8f7d159edd", null ],
+    [ "register_cli_argument", "doca__utils_8hpp.html#a7be10669a7bed56a2984170b271787a6", null ],
+    [ "stop_context", "doca__utils_8hpp.html#ad1753efa1a0dbc5e368bd3cc2d41a4cb", null ],
+    [ "stop_context", "doca__utils_8hpp.html#abe21c170991cf54b7ee31c5194dbe8f8", null ],
+    [ "multiple_values", "doca__utils_8hpp.html#a6c22b664f7ce89979057259295078ddd", null ],
+    [ "optional_value", "doca__utils_8hpp.html#a24de56f7db768bf3cc54ae795ba6fc3a", null ],
+    [ "required_value", "doca__utils_8hpp.html#ac2e8baa922788e8e7d7b0d63696e9620", null ],
+    [ "single_value", "doca__utils_8hpp.html#aaea45653404bea000b2fa8858ddcca3c", null ]
+];

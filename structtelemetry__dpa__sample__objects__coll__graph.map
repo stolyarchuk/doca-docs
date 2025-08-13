@@ -1,0 +1,7 @@
+<map id="telemetry_dpa_sample_objects" name="telemetry_dpa_sample_objects">
+<area shape="rect" id="node1" title=" " alt="" coords="321,104,493,145"/>
+<area shape="rect" id="node2" href="$structdoca__telemetry__dpa__thread__info.html" title="Single thread structure." alt="" coords="5,5,160,47"/>
+<area shape="rect" id="node3" href="$structdoca__telemetry__dpa__cumul__info.html" title="Single cumulative info structure." alt="" coords="5,71,160,112"/>
+<area shape="rect" id="node4" href="$structdoca__telemetry__dpa__event__sample.html" title="Single performance events tracer structure." alt="" coords="5,136,160,177"/>
+<area shape="rect" id="node5" href="$structdoca__telemetry__dpa__process__info.html" title="Single process structure." alt="" coords="5,201,160,243"/>
+</map>

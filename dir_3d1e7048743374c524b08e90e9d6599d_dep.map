@@ -1,0 +1,9 @@
+<map id="samples/doca_eth/eth_txq_batch_send_ethernet_frames" name="samples/doca_eth/eth_txq_batch_send_ethernet_frames">
+<area shape="rect" id="node1" href="dir_3d1e7048743374c524b08e90e9d6599d.html" title="eth_txq_batch_send_ethernet_frames" alt="" coords="27,52,293,100"/>
+<area shape="rect" id="node2" href="dir_02481c78e9b917285a4b7227e8bc70da.html" title="include" alt="" coords="87,148,159,196"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000157_000047.html" title="11" alt="" coords="138,127,155,142"/>
+<area shape="rect" id="node3" href="dir_c4eb813eeef3fabf556c400e0344aa28.html" title="lib" alt="" coords="123,244,195,292"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000157_000048.html" title="2" alt="" coords="170,220,180,235"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000047_000048.html" title="91" alt="" coords="143,217,160,231"/>
+<area shape="rect" id="clust1" href="dir_49db3c1d87f8772db409b7e70839e973.html" title="doca_eth" alt="" coords="16,16,304,111"/>
+</map>

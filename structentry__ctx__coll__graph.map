@@ -1,0 +1,4 @@
+<map id="entry_ctx" name="entry_ctx">
+<area shape="rect" id="node1" title=" " alt="" coords="21,95,104,121"/>
+<area shape="rect" id="node2" href="$structentries__status.html" title="user context struct that will be used in entries process callback" alt="" coords="5,5,120,32"/>
+</map>

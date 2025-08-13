@@ -1,0 +1,7 @@
+<map id="simple_fwd_process_pkts_params" name="simple_fwd_process_pkts_params">
+<area shape="rect" id="node1" title=" " alt="" coords="5,273,159,315"/>
+<area shape="rect" id="node2" href="$structapp__vnf.html" title=" " alt="" coords="17,184,91,211"/>
+<area shape="rect" id="node3" href="$structsimple__fwd__config.html" title=" " alt="" coords="116,184,259,211"/>
+<area shape="rect" id="node4" href="$structapplication__dpdk__config.html" title=" " alt="" coords="98,95,277,121"/>
+<area shape="rect" id="node5" href="$structapplication__port__config.html" title=" " alt="" coords="101,5,274,32"/>
+</map>

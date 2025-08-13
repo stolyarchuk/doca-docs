@@ -1,0 +1,4 @@
+<map id="doca_flow_fwd" name="doca_flow_fwd">
+<area shape="rect" id="node1" title="forwarding configuration" alt="" coords="22,109,139,136"/>
+<area shape="rect" id="node2" href="$structdoca__flow__resource__rss__cfg.html" title="doca flow rss resource configuration" alt="" coords="5,5,156,47"/>
+</map>

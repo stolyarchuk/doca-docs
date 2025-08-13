@@ -1,0 +1,26 @@
+<map id="samples/doca_urom/plugins/worker_sandbox/worker_sandbox.h" name="samples/doca_urom/plugins/worker_sandbox/worker_sandbox.h">
+<area shape="rect" id="node1" title=" " alt="" coords="61,5,265,61"/>
+<area shape="rect" id="node2" title=" " alt="" coords="44,109,152,136"/>
+<area shape="rect" id="node3" href="$doca__urom_8h.html" title=" " alt="" coords="177,109,283,136"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,184,148,211"/>
+<area shape="rect" id="node5" href="$doca__error_8h.html" title=" " alt="" coords="224,259,327,285"/>
+<area shape="rect" id="node21" href="$doca__types_8h.html" title=" " alt="" coords="92,333,200,360"/>
+<area shape="rect" id="node22" href="$doca__urom__plugin_8h.html" title=" " alt="" coords="349,184,503,211"/>
+<area shape="rect" id="node6" href="$doca__compat_8h.html" title=" " alt="" coords="431,333,552,360"/>
+<area shape="rect" id="node20" href="$doca__common__defines_8h.html" title=" " alt="" coords="224,333,407,360"/>
+<area shape="rect" id="node7" href="$doca__config_8h.html" title=" " alt="" coords="683,408,793,435"/>
+<area shape="rect" id="node9" title=" " alt="" coords="249,408,320,435"/>
+<area shape="rect" id="node10" href="$stdint_8h.html" title=" " alt="" coords="140,408,211,435"/>
+<area shape="rect" id="node11" title=" " alt="" coords="344,408,415,435"/>
+<area shape="rect" id="node12" title=" " alt="" coords="439,408,514,435"/>
+<area shape="rect" id="node13" href="$doca__version_8h.html" title=" " alt="" coords="538,408,658,435"/>
+<area shape="rect" id="node8" href="$doca__build__config_8h.html" title=" " alt="" coords="663,483,813,509"/>
+<area shape="rect" id="node14" href="$stddef_8h.html" title=" " alt="" coords="561,483,635,509"/>
+<area shape="rect" id="node15" href="$____stddef__ptrdiff__t_8h.html" title=" " alt="" coords="194,557,341,584"/>
+<area shape="rect" id="node16" href="$____stddef__size__t_8h.html" title=" " alt="" coords="365,557,500,584"/>
+<area shape="rect" id="node17" href="$____stddef__wchar__t_8h.html" title=" " alt="" coords="525,557,671,584"/>
+<area shape="rect" id="node18" href="$____stddef__null_8h.html" title=" " alt="" coords="695,557,815,584"/>
+<area shape="rect" id="node19" href="$____stddef__offsetof_8h.html" title=" " alt="" coords="840,557,985,584"/>
+<area shape="rect" id="node23" href="$limits_8h.html" title=" " alt="" coords="577,259,648,285"/>
+<area shape="rect" id="node24" title=" " alt="" coords="351,259,501,285"/>
+</map>

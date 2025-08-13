@@ -1,0 +1,26 @@
+var structdoca__telemetry__exporter__netflow__example__record =
+[
+    [ "application_name", "structdoca__telemetry__exporter__netflow__example__record.html#a55f5d2f1f417fcf389a1acb787548abb", null ],
+    [ "d_octets", "structdoca__telemetry__exporter__netflow__example__record.html#a882ab5d3cff0aae8d9104ec076130634", null ],
+    [ "d_pkts", "structdoca__telemetry__exporter__netflow__example__record.html#a9050a5fada68187aaf55e2cfea30e969", null ],
+    [ "dst_addr_v4", "structdoca__telemetry__exporter__netflow__example__record.html#a4d48d1910a4740a3e65d8f6c51e39d34", null ],
+    [ "dst_addr_v6", "structdoca__telemetry__exporter__netflow__example__record.html#a5fdf6b7f810a3bff00e43faac1d566de", null ],
+    [ "dst_as", "structdoca__telemetry__exporter__netflow__example__record.html#aa0ddab5779000a28c87cd7d62010dedd", null ],
+    [ "dst_mask", "structdoca__telemetry__exporter__netflow__example__record.html#a87f3e13805c486390c5a525f5f5bf38c", null ],
+    [ "dst_port", "structdoca__telemetry__exporter__netflow__example__record.html#a137b7fe733275d2517ec896ea24d79f9", null ],
+    [ "first", "structdoca__telemetry__exporter__netflow__example__record.html#abddfee89256345950e41752c1bb24148", null ],
+    [ "flow_id", "structdoca__telemetry__exporter__netflow__example__record.html#aa263969da1b8ff748135989fc90fa35d", null ],
+    [ "input", "structdoca__telemetry__exporter__netflow__example__record.html#a18d8b961b5537565344660f84029d876", null ],
+    [ "last", "structdoca__telemetry__exporter__netflow__example__record.html#afd22d6791ae53d98484d971043741307", null ],
+    [ "next_hop_v4", "structdoca__telemetry__exporter__netflow__example__record.html#af3d770b25d8e193bddb4ba265d77dccc", null ],
+    [ "next_hop_v6", "structdoca__telemetry__exporter__netflow__example__record.html#aa2ee16923a06bbabeb64bae5b2d8c0a4", null ],
+    [ "output", "structdoca__telemetry__exporter__netflow__example__record.html#aa970488f527b40b86694f9a7ccbdb98d", null ],
+    [ "protocol", "structdoca__telemetry__exporter__netflow__example__record.html#aab964e3ccc90e57a0140ff531ca5d961", null ],
+    [ "src_addr_v4", "structdoca__telemetry__exporter__netflow__example__record.html#a06e0f088d5cb4f7ff05f56d59c14d06b", null ],
+    [ "src_addr_v6", "structdoca__telemetry__exporter__netflow__example__record.html#aa8dc2bd1b8fbd3c07bc2af2a8451212d", null ],
+    [ "src_as", "structdoca__telemetry__exporter__netflow__example__record.html#a234a34d6b14f169e3dabedd5dc1b4439", null ],
+    [ "src_mask", "structdoca__telemetry__exporter__netflow__example__record.html#a6f97c0ff6508cd5784d4b68d43005f11", null ],
+    [ "src_port", "structdoca__telemetry__exporter__netflow__example__record.html#acb4d1a3c412f3f8f50889bb77f220f6c", null ],
+    [ "tcp_flags", "structdoca__telemetry__exporter__netflow__example__record.html#a310f91270af940893863818c662edd9a", null ],
+    [ "tos", "structdoca__telemetry__exporter__netflow__example__record.html#a6d828e9d35aad6f366247afb1c9eecf9", null ]
+];

@@ -1,0 +1,23 @@
+<map id="include/doca_sta_be.h" name="include/doca_sta_be.h">
+<area shape="rect" id="node1" title=" " alt="" coords="575,5,742,32"/>
+<area shape="rect" id="node2" href="$stdint_8h.html" title=" " alt="" coords="751,304,822,331"/>
+<area shape="rect" id="node3" href="$doca__compat_8h.html" title=" " alt="" coords="221,229,342,256"/>
+<area shape="rect" id="node16" href="$doca__error_8h.html" title=" " alt="" coords="441,155,543,181"/>
+<area shape="rect" id="node18" href="$doca__mmap_8h.html" title=" " alt="" coords="529,80,644,107"/>
+<area shape="rect" id="node20" href="$doca__sta__handle_8h.html" title=" " alt="" coords="910,155,1053,181"/>
+<area shape="rect" id="node21" href="$doca__sta__task_8h.html" title=" " alt="" coords="669,80,795,107"/>
+<area shape="rect" id="node4" href="$doca__config_8h.html" title=" " alt="" coords="294,304,405,331"/>
+<area shape="rect" id="node6" title=" " alt="" coords="105,304,175,331"/>
+<area shape="rect" id="node7" title=" " alt="" coords="199,304,270,331"/>
+<area shape="rect" id="node8" title=" " alt="" coords="5,304,80,331"/>
+<area shape="rect" id="node9" href="$doca__version_8h.html" title=" " alt="" coords="429,304,549,331"/>
+<area shape="rect" id="node5" href="$doca__build__config_8h.html" title=" " alt="" coords="274,379,425,405"/>
+<area shape="rect" id="node10" href="$stddef_8h.html" title=" " alt="" coords="500,379,575,405"/>
+<area shape="rect" id="node11" href="$____stddef__ptrdiff__t_8h.html" title=" " alt="" coords="133,453,280,480"/>
+<area shape="rect" id="node12" href="$____stddef__size__t_8h.html" title=" " alt="" coords="305,453,439,480"/>
+<area shape="rect" id="node13" href="$____stddef__wchar__t_8h.html" title=" " alt="" coords="464,453,611,480"/>
+<area shape="rect" id="node14" href="$____stddef__null_8h.html" title=" " alt="" coords="635,453,755,480"/>
+<area shape="rect" id="node15" href="$____stddef__offsetof_8h.html" title=" " alt="" coords="779,453,925,480"/>
+<area shape="rect" id="node17" href="$doca__common__defines_8h.html" title=" " alt="" coords="366,229,549,256"/>
+<area shape="rect" id="node19" href="$doca__types_8h.html" title=" " alt="" coords="675,155,783,181"/>
+</map>

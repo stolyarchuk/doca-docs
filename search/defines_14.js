@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['tailq_5fforeach_5fsafe_21439',['TAILQ_FOREACH_SAFE',['../doca__transport_8c.html#a2a85f19896399eecd0ebf91cb8176166',1,'doca_transport.c']]],
+  ['task_5fbatches_5fnum_21440',['TASK_BATCHES_NUM',['../eth__txq__batch__lso__send__ethernet__frames__sample_8c.html#aed188b8fc995ad339ac619a315f21ac1',1,'TASK_BATCHES_NUM():&#160;eth_txq_batch_lso_send_ethernet_frames_sample.c'],['../eth__txq__batch__send__ethernet__frames__sample_8c.html#aed188b8fc995ad339ac619a315f21ac1',1,'TASK_BATCHES_NUM():&#160;eth_txq_batch_send_ethernet_frames_sample.c']]],
+  ['tasks_5fin_5ftask_5fbatch_21441',['TASKS_IN_TASK_BATCH',['../eth__txq__batch__lso__send__ethernet__frames__sample_8c.html#a76de78a1370ad66af79f8b850c0a4260',1,'TASKS_IN_TASK_BATCH():&#160;eth_txq_batch_lso_send_ethernet_frames_sample.c'],['../eth__txq__batch__send__ethernet__frames__sample_8c.html#a76de78a1370ad66af79f8b850c0a4260',1,'TASKS_IN_TASK_BATCH():&#160;eth_txq_batch_send_ethernet_frames_sample.c']]],
+  ['tasks_5fnum_21442',['TASKS_NUM',['../eth__rxq__regular__receive__sample_8c.html#a5afdeb7a72902e75f6a26d789d4a2dc5',1,'TASKS_NUM():&#160;eth_rxq_regular_receive_sample.c'],['../eth__txq__lso__send__ethernet__frames__sample_8c.html#a5afdeb7a72902e75f6a26d789d4a2dc5',1,'TASKS_NUM():&#160;eth_txq_lso_send_ethernet_frames_sample.c'],['../eth__txq__send__ethernet__frames__sample_8c.html#a5afdeb7a72902e75f6a26d789d4a2dc5',1,'TASKS_NUM():&#160;eth_txq_send_ethernet_frames_sample.c']]],
+  ['tcp_5fpacket_5fmax_5fburst_5fsize_21443',['TCP_PACKET_MAX_BURST_SIZE',['../tcp__cpu__rss__func_8h.html#a869ff770d24790de302b0d419a0e5392',1,'tcp_cpu_rss_func.h']]],
+  ['tcp_5fprotocol_5fid_21444',['TCP_PROTOCOL_ID',['../packets_8h.html#a52b7a7b1bce0d43ecb2b053184993894',1,'packets.h']]],
+  ['tcp_5fsession_5fmax_5fentries_21445',['TCP_SESSION_MAX_ENTRIES',['../tcp__session__table_8h.html#a327242c6266fbc8cb5a9171458ba50f3',1,'tcp_session_table.h']]],
+  ['telemetry_5fdb_5flog_5fmax_5fdevices_21446',['TELEMETRY_DB_LOG_MAX_DEVICES',['../np__switch__telemetry__dev__main_8c.html#a930e3ac5365221dcc2aa075b07ed52a2',1,'np_switch_telemetry_dev_main.c']]],
+  ['telemetry_5fdb_5flog_5fmax_5fports_5fper_5fdevice_21447',['TELEMETRY_DB_LOG_MAX_PORTS_PER_DEVICE',['../np__switch__telemetry__dev__main_8c.html#ab329227f31c9a8f11f2b16ce56924c65',1,'np_switch_telemetry_dev_main.c']]],
+  ['telemetry_5fdb_5flog_5fsize_21448',['TELEMETRY_DB_LOG_SIZE',['../np__switch__telemetry__dev__main_8c.html#abc8929a5d2f2f9b8b1fff494470b6ad0',1,'np_switch_telemetry_dev_main.c']]],
+  ['telemetry_5fdb_5fmask_21449',['TELEMETRY_DB_MASK',['../np__switch__telemetry__dev__main_8c.html#a3082dce2a3308a67731750acc9786fa4',1,'np_switch_telemetry_dev_main.c']]],
+  ['telemetry_5fdb_5fsize_21450',['TELEMETRY_DB_SIZE',['../np__switch__telemetry__dev__main_8c.html#adea1ebd0d298683d65a5e9e3c2119221',1,'np_switch_telemetry_dev_main.c']]],
+  ['telemetry_5fdiag_5fsample_5fmax_5ffile_5fname_21451',['TELEMETRY_DIAG_SAMPLE_MAX_FILE_NAME',['../telemetry__diag__sample_8h.html#ae3760bbdf930e3713eb3af2fe9ddb939',1,'telemetry_diag_sample.h']]],
+  ['test_5flpm_5fem_5ftag_21452',['TEST_LPM_EM_TAG',['../flow__lpm__em__sample_8c.html#accccf9010f66823d9c2d07050bbc7671',1,'flow_lpm_em_sample.c']]],
+  ['timeout_5fin_5fmicros_21453',['TIMEOUT_IN_MICROS',['../devemu__vfs__device__hotplug__unplug__sample_8c.html#ab2a87fd8c899b2412fd451992265ed8d',1,'devemu_vfs_device_hotplug_unplug_sample.c']]],
+  ['timeout_5fin_5fnanos_21454',['TIMEOUT_IN_NANOS',['../common__common_8c.html#ad0f4476314ffcbe7d1f29a2a956ec62a',1,'common_common.c']]],
+  ['total_5fentries_21455',['TOTAL_ENTRIES',['../flow__ip__in__ip__sample_8c.html#a894412c0664d08de9eaece47a812d6cb',1,'TOTAL_ENTRIES():&#160;flow_ip_in_ip_sample.c'],['../flow__ipv6__flow__label__sample_8c.html#a894412c0664d08de9eaece47a812d6cb',1,'TOTAL_ENTRIES():&#160;flow_ipv6_flow_label_sample.c'],['../flow__modify__header__sample_8c.html#a894412c0664d08de9eaece47a812d6cb',1,'TOTAL_ENTRIES():&#160;flow_modify_header_sample.c'],['../flow__switch__single__sample_8c.html#a894412c0664d08de9eaece47a812d6cb',1,'TOTAL_ENTRIES():&#160;flow_switch_single_sample.c']]],
+  ['true_21456',['true',['../stdbool_8h.html#a41f9c5fb8b08eb5dc3edce4dcb37fee7',1,'stdbool.h']]],
+  ['tx_5fbuf_5fmax_5fsz_21457',['TX_BUF_MAX_SZ',['../defines_8h.html#ab7d443626d1da587eb5ab205d71c7fb8',1,'defines.h']]],
+  ['tx_5fbuf_5fnum_21458',['TX_BUF_NUM',['../defines_8h.html#a695265587c5e25ac27e1f43e1f9e6de2',1,'defines.h']]],
+  ['tx_5frate_5fth_21459',['TX_RATE_TH',['../telem__template_8c.html#ab4587d93aa88c6639686604b59c99636',1,'telem_template.c']]],
+  ['tx_5fring_5fsize_21460',['TX_RING_SIZE',['../dpdk__utils_8h.html#a530086d082c22e371518c2497c6d9014',1,'dpdk_utils.h']]],
+  ['type_5fstr_5flen_21461',['TYPE_STR_LEN',['../flow__parser_8c.html#a8d4bd3526c3773f165ff33095c2bc4ce',1,'flow_parser.c']]]
+];

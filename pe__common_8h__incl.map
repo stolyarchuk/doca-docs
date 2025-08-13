@@ -1,0 +1,23 @@
+<map id="samples/doca_common/pe_common.h" name="samples/doca_common/pe_common.h">
+<area shape="rect" id="node1" title=" " alt="" coords="368,5,544,47"/>
+<area shape="rect" id="node2" href="$doca__ctx_8h.html" title=" " alt="" coords="346,95,438,121"/>
+<area shape="rect" id="node20" href="$doca__dma_8h.html" title=" " alt="" coords="471,95,572,121"/>
+<area shape="rect" id="node3" href="$stddef_8h.html" title=" " alt="" coords="372,393,447,420"/>
+<area shape="rect" id="node9" href="$stdint_8h.html" title=" " alt="" coords="301,319,371,345"/>
+<area shape="rect" id="node10" href="$doca__error_8h.html" title=" " alt="" coords="470,169,573,196"/>
+<area shape="rect" id="node19" href="$doca__types_8h.html" title=" " alt="" coords="338,169,446,196"/>
+<area shape="rect" id="node4" href="$____stddef__ptrdiff__t_8h.html" title=" " alt="" coords="5,468,152,495"/>
+<area shape="rect" id="node5" href="$____stddef__size__t_8h.html" title=" " alt="" coords="177,468,311,495"/>
+<area shape="rect" id="node6" href="$____stddef__wchar__t_8h.html" title=" " alt="" coords="336,468,483,495"/>
+<area shape="rect" id="node7" href="$____stddef__null_8h.html" title=" " alt="" coords="507,468,627,495"/>
+<area shape="rect" id="node8" href="$____stddef__offsetof_8h.html" title=" " alt="" coords="651,468,797,495"/>
+<area shape="rect" id="node11" href="$doca__compat_8h.html" title=" " alt="" coords="595,244,717,271"/>
+<area shape="rect" id="node18" href="$doca__common__defines_8h.html" title=" " alt="" coords="389,244,571,271"/>
+<area shape="rect" id="node12" href="$doca__config_8h.html" title=" " alt="" coords="734,319,845,345"/>
+<area shape="rect" id="node14" title=" " alt="" coords="639,319,710,345"/>
+<area shape="rect" id="node15" title=" " alt="" coords="869,319,939,345"/>
+<area shape="rect" id="node16" title=" " alt="" coords="396,319,471,345"/>
+<area shape="rect" id="node17" href="$doca__version_8h.html" title=" " alt="" coords="495,319,615,345"/>
+<area shape="rect" id="node13" href="$doca__build__config_8h.html" title=" " alt="" coords="714,393,865,420"/>
+<area shape="rect" id="node21" title=" " alt="" coords="649,169,735,196"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="eth_l2_fwd_dev_resources" name="eth_l2_fwd_dev_resources">
+<area shape="rect" id="node1" title=" " alt="" coords="85,95,279,121"/>
+<area shape="rect" id="node2" href="$structeth__rxq__flow__resources.html" title=" " alt="" coords="5,5,180,32"/>
+<area shape="rect" id="node3" href="$structmmap__resources.html" title=" " alt="" coords="204,5,339,32"/>
+</map>

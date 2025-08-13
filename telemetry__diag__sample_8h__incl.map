@@ -1,0 +1,21 @@
+<map id="samples/doca_telemetry/telemetry_diag/telemetry_diag_sample.h" name="samples/doca_telemetry/telemetry_diag/telemetry_diag_sample.h">
+<area shape="rect" id="node1" title=" " alt="" coords="133,5,327,61"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,333,76,360"/>
+<area shape="rect" id="node3" href="$doca__error_8h.html" title=" " alt="" coords="276,184,379,211"/>
+<area shape="rect" id="node18" href="$doca__telemetry__diag_8h.html" title=" " alt="" coords="267,109,438,136"/>
+<area shape="rect" id="node4" href="$doca__compat_8h.html" title=" " alt="" coords="243,259,364,285"/>
+<area shape="rect" id="node17" href="$doca__common__defines_8h.html" title=" " alt="" coords="388,259,571,285"/>
+<area shape="rect" id="node5" href="$doca__config_8h.html" title=" " alt="" coords="100,333,211,360"/>
+<area shape="rect" id="node7" title=" " alt="" coords="235,333,305,360"/>
+<area shape="rect" id="node8" href="$stdint_8h.html" title=" " alt="" coords="573,333,644,360"/>
+<area shape="rect" id="node9" title=" " alt="" coords="330,333,405,360"/>
+<area shape="rect" id="node10" href="$doca__version_8h.html" title=" " alt="" coords="429,333,549,360"/>
+<area shape="rect" id="node6" href="$doca__build__config_8h.html" title=" " alt="" coords="80,408,231,435"/>
+<area shape="rect" id="node11" href="$stddef_8h.html" title=" " alt="" coords="451,408,526,435"/>
+<area shape="rect" id="node12" href="$____stddef__ptrdiff__t_8h.html" title=" " alt="" coords="85,483,231,509"/>
+<area shape="rect" id="node13" href="$____stddef__size__t_8h.html" title=" " alt="" coords="256,483,391,509"/>
+<area shape="rect" id="node14" href="$____stddef__wchar__t_8h.html" title=" " alt="" coords="415,483,562,509"/>
+<area shape="rect" id="node15" href="$____stddef__null_8h.html" title=" " alt="" coords="586,483,706,509"/>
+<area shape="rect" id="node16" href="$____stddef__offsetof_8h.html" title=" " alt="" coords="731,483,876,509"/>
+<area shape="rect" id="node19" href="$doca__types_8h.html" title=" " alt="" coords="491,184,599,211"/>
+</map>

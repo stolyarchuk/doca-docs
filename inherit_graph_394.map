@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structstorage_1_1control_1_1message_1_1payload.html" title=" " alt="" coords="5,104,196,145"/>
+<area shape="rect" id="node2" href="$structstorage_1_1control_1_1error__response__payload.html" title=" " alt="" coords="268,5,431,47"/>
+<area shape="rect" id="node3" href="$structstorage_1_1control_1_1init__storage__payload.html" title=" " alt="" coords="273,71,426,112"/>
+<area shape="rect" id="node4" href="$structstorage_1_1control_1_1rdma__connection__details__payload.html" title=" " alt="" coords="244,136,455,177"/>
+<area shape="rect" id="node5" href="$structstorage_1_1control_1_1storage__details__payload.html" title=" " alt="" coords="259,201,440,243"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="samples/doca_telemetry_exporter" name="samples/doca_telemetry_exporter">
+<area shape="rect" id="node2" href="dir_30a8b4034d6b2875dd9e692b0963c9ff.html" title="telemetry_export" alt="" coords="253,63,387,111"/>
+<area shape="rect" id="node4" href="dir_d44c64559bbebec7f509842c48db8b23.html" title="include" alt="" coords="191,159,263,207"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000243_000045.html" title="4" alt="" coords="264,144,273,159"/>
+<area shape="rect" id="node3" href="dir_dbcdf4dfd08f1cf0280ccfb49dd19197.html" title="telemetry_export_netflow" alt="" coords="38,63,229,111"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000244_000045.html" title="4" alt="" coords="192,132,202,147"/>
+<area shape="rect" id="clust2" href="dir_04b3fcd0ceac69d1b8c9811c94d378b9.html" alt="" coords="27,52,609,121"/>
+<area shape="rect" id="clust1" href="dir_6f9635d4fbfa321d4c00f29df5cd540c.html" title="samples" alt="" coords="16,16,620,132"/>
+</map>

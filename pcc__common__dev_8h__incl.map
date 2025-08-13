@@ -1,0 +1,21 @@
+<map id="applications/pcc/device/pcc_common_dev.h" name="applications/pcc/device/pcc_common_dev.h">
+<area shape="rect" id="node1" title=" " alt="" coords="797,5,971,47"/>
+<area shape="rect" id="node2" href="$doca__pcc__dev__utils_8h.html" title=" " alt="" coords="736,95,896,121"/>
+<area shape="rect" id="node19" title=" " alt="" coords="921,95,983,121"/>
+<area shape="rect" id="node3" href="$dpaintrin_8h.html" title=" " alt="" coords="942,244,1034,271"/>
+<area shape="rect" id="node5" href="$doca__pcc__dev__common_8h.html" title=" " alt="" coords="656,169,845,196"/>
+<area shape="rect" id="node4" href="$stdint_8h.html" title=" " alt="" coords="966,319,1037,345"/>
+<area shape="rect" id="node6" href="$stddef_8h.html" title=" " alt="" coords="372,393,447,420"/>
+<area shape="rect" id="node12" href="$doca__compat_8h.html" title=" " alt="" coords="665,244,786,271"/>
+<area shape="rect" id="node7" href="$____stddef__ptrdiff__t_8h.html" title=" " alt="" coords="5,468,152,495"/>
+<area shape="rect" id="node8" href="$____stddef__size__t_8h.html" title=" " alt="" coords="177,468,311,495"/>
+<area shape="rect" id="node9" href="$____stddef__wchar__t_8h.html" title=" " alt="" coords="336,468,483,495"/>
+<area shape="rect" id="node10" href="$____stddef__null_8h.html" title=" " alt="" coords="507,468,627,495"/>
+<area shape="rect" id="node11" href="$____stddef__offsetof_8h.html" title=" " alt="" coords="651,468,797,495"/>
+<area shape="rect" id="node13" href="$doca__config_8h.html" title=" " alt="" coords="542,319,653,345"/>
+<area shape="rect" id="node15" title=" " alt="" coords="677,319,747,345"/>
+<area shape="rect" id="node16" title=" " alt="" coords="771,319,842,345"/>
+<area shape="rect" id="node17" title=" " alt="" coords="867,319,941,345"/>
+<area shape="rect" id="node18" href="$doca__version_8h.html" title=" " alt="" coords="397,319,517,345"/>
+<area shape="rect" id="node14" href="$doca__build__config_8h.html" title=" " alt="" coords="522,393,673,420"/>
+</map>

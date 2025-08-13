@@ -1,0 +1,13 @@
+<map id="samples/doca_common/pe_common.h" name="samples/doca_common/pe_common.h">
+<area shape="rect" id="node1" title=" " alt="" coords="968,5,1144,47"/>
+<area shape="rect" id="node2" href="$pe__async__stop__sample_8c.html" title=" " alt="" coords="5,102,192,158"/>
+<area shape="rect" id="node3" href="$pe__common_8c.html" title=" " alt="" coords="216,109,392,151"/>
+<area shape="rect" id="node4" href="$pe__event__sample_8c.html" title=" " alt="" coords="416,109,632,151"/>
+<area shape="rect" id="node5" href="$pe__multi__context__sample_8c.html" title=" " alt="" coords="657,102,842,158"/>
+<area shape="rect" id="node6" href="$pe__polling__sample_8c.html" title=" " alt="" coords="867,102,1043,158"/>
+<area shape="rect" id="node7" href="$pe__reactive__sample_8c.html" title=" " alt="" coords="1067,102,1250,158"/>
+<area shape="rect" id="node8" href="$pe__single__task__comp__cb__sample_8c.html" title=" " alt="" coords="1274,95,1462,165"/>
+<area shape="rect" id="node9" href="$pe__task__error__sample_8c.html" title=" " alt="" coords="1487,102,1663,158"/>
+<area shape="rect" id="node10" href="$pe__task__resubmit__sample_8c.html" title=" " alt="" coords="1687,102,1875,158"/>
+<area shape="rect" id="node11" href="$pe__task__try__submit__sample_8c.html" title=" " alt="" coords="1899,102,2119,158"/>
+</map>

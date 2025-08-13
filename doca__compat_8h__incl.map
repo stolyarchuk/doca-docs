@@ -1,0 +1,16 @@
+<map id="include/doca_compat.h" name="include/doca_compat.h">
+<area shape="rect" id="node1" title=" " alt="" coords="299,5,471,32"/>
+<area shape="rect" id="node2" href="$doca__config_8h.html" title=" " alt="" coords="25,80,136,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="160,80,231,107"/>
+<area shape="rect" id="node5" href="$stdint_8h.html" title=" " alt="" coords="255,80,325,107"/>
+<area shape="rect" id="node6" title=" " alt="" coords="349,80,420,107"/>
+<area shape="rect" id="node7" title=" " alt="" coords="445,80,519,107"/>
+<area shape="rect" id="node8" href="$doca__version_8h.html" title=" " alt="" coords="543,80,663,107"/>
+<area shape="rect" id="node3" href="$doca__build__config_8h.html" title=" " alt="" coords="5,155,156,181"/>
+<area shape="rect" id="node9" href="$stddef_8h.html" title=" " alt="" coords="566,155,641,181"/>
+<area shape="rect" id="node10" href="$____stddef__ptrdiff__t_8h.html" title=" " alt="" coords="199,229,346,256"/>
+<area shape="rect" id="node11" href="$____stddef__size__t_8h.html" title=" " alt="" coords="371,229,505,256"/>
+<area shape="rect" id="node12" href="$____stddef__wchar__t_8h.html" title=" " alt="" coords="530,229,677,256"/>
+<area shape="rect" id="node13" href="$____stddef__null_8h.html" title=" " alt="" coords="701,229,821,256"/>
+<area shape="rect" id="node14" href="$____stddef__offsetof_8h.html" title=" " alt="" coords="845,229,991,256"/>
+</map>

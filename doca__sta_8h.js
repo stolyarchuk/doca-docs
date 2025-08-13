@@ -1,0 +1,28 @@
+var doca__sta_8h =
+[
+    [ "doca_sta_add_dev", "doca__sta_8h.html#a14eaf589bee99580c8942a84362eea46", null ],
+    [ "doca_sta_as_ctx", "doca__sta_8h.html#ad8e416fbc9885efa0859f0c1e6b9ba6f", null ],
+    [ "doca_sta_cap_is_supported", "doca__sta_8h.html#a450d5e460dc85261bf1105a7e5470a3a", null ],
+    [ "doca_sta_create", "doca__sta_8h.html#a475670ebc30ed5ba8c3d578ae6a4e50f", null ],
+    [ "doca_sta_destroy", "doca__sta_8h.html#adb298c375b236df4f6182992752d86e0", null ],
+    [ "doca_sta_get_max_be", "doca__sta_8h.html#a7118cb11b9433e6976404bd3f6acfcd5", null ],
+    [ "doca_sta_get_max_devs", "doca__sta_8h.html#a11f27b37f126d7ab5fc60e7300745645", null ],
+    [ "doca_sta_get_max_icdoff", "doca__sta_8h.html#aa59514f788af51d5553098f54cf8032c", null ],
+    [ "doca_sta_get_max_io_num_per_dev", "doca__sta_8h.html#a30a02c42f616d753c9777436cd3971bf", null ],
+    [ "doca_sta_get_max_io_queue_size", "doca__sta_8h.html#a19eef970e34706bb637a49d659a37c16", null ],
+    [ "doca_sta_get_max_io_size", "doca__sta_8h.html#aaebb66655ce859f77bb65ae9154dfd90", null ],
+    [ "doca_sta_get_max_io_threads", "doca__sta_8h.html#abb7ee4481e6530ee9120c0e6230e8dd2", null ],
+    [ "doca_sta_get_max_ioccsz", "doca__sta_8h.html#a2b90dcf6b08c68072b51ad82a03bc2f2", null ],
+    [ "doca_sta_get_max_iorcsz", "doca__sta_8h.html#a7d407b80e8c8c326fbb39a83037a1d6d", null ],
+    [ "doca_sta_get_max_ns_per_subs", "doca__sta_8h.html#a932c5228a946e758397717bc75de13f3", null ],
+    [ "doca_sta_get_max_num_connected_qp_per_eu", "doca__sta_8h.html#a855c6eff441c73f9c3c736c2323a9ceb", null ],
+    [ "doca_sta_get_max_num_eus_available", "doca__sta_8h.html#adf3baf3dd08ffbd043ecbf6ebef3bf95", null ],
+    [ "doca_sta_get_max_qps", "doca__sta_8h.html#a5ac094179bd58e8a4bff4a80f080de9e", null ],
+    [ "doca_sta_get_max_qs_per_be", "doca__sta_8h.html#a9ab8ac6f14d670571d70e145f75165cd", null ],
+    [ "doca_sta_get_max_sta_io", "doca__sta_8h.html#ad571e399ee4604b8ccf078a4f322e1d7", null ],
+    [ "doca_sta_get_max_subsys", "doca__sta_8h.html#abd4d1fa00f4f6e3787a50ad78565c88e", null ],
+    [ "doca_sta_get_min_ioccsz", "doca__sta_8h.html#a75ee76851de939daba31c5dd6f46f77b", null ],
+    [ "doca_sta_get_min_iorcsz", "doca__sta_8h.html#a0c6102bf2e48c655ecbdbdc21687ebcc", null ],
+    [ "doca_sta_is_logical_block_size_supported", "doca__sta_8h.html#a4205aeadc8c533b09df60146bf9e8d57", null ],
+    [ "doca_sta_set_max_sta_io", "doca__sta_8h.html#a6ecb99f4af671b3e1608e339530d1299", null ]
+];

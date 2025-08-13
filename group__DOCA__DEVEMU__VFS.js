@@ -1,0 +1,26 @@
+var group__DOCA__DEVEMU__VFS =
+[
+    [ "DOCA Device Emulation - Virtio FS IO Context", "group__DOCA__DEVEMU__VFS__IO.html", "group__DOCA__DEVEMU__VFS__IO" ],
+    [ "DOCA Device Emulation - Virtio FS Device Types", "group__DOCA__DEVEMU__VFS__TYPES.html", "group__DOCA__DEVEMU__VFS__TYPES" ],
+    [ "DOCA_VFS_TAG_SIZE", "group__DOCA__DEVEMU__VFS.html#ga081a130448b46c308429f7794c8c4015", null ],
+    [ "doca_devemu_vfs_cfg_create", "group__DOCA__DEVEMU__VFS.html#gaa40c7976e2b06a25bb8190571fb4b475", null ],
+    [ "doca_devemu_vfs_cfg_destroy", "group__DOCA__DEVEMU__VFS.html#gad61d5d85731b30736ba1104dae1102d7", null ],
+    [ "doca_devemu_vfs_cfg_get_notification_req_user_data_size", "group__DOCA__DEVEMU__VFS.html#ga7ac5128fb96214a35356cbab7471a14e", null ],
+    [ "doca_devemu_vfs_cfg_get_vfs_req_user_data_size", "group__DOCA__DEVEMU__VFS.html#ga6fa46b0b38022b5ecf8d1738e86d16c4", null ],
+    [ "doca_devemu_vfs_cfg_set_notification_req_user_data_size", "group__DOCA__DEVEMU__VFS.html#gad06362d8d40cca6bffb6a8a7574e6f2c", null ],
+    [ "doca_devemu_vfs_cfg_set_vfs_req_user_data_size", "group__DOCA__DEVEMU__VFS.html#gafe8f7b5ef9b45707a823cc836f996fcf", null ],
+    [ "doca_devemu_vfs_dev_as_ctx", "group__DOCA__DEVEMU__VFS.html#gae85fb543c726bf236c1e7ed2b608e990", null ],
+    [ "doca_devemu_vfs_dev_as_pci_dev", "group__DOCA__DEVEMU__VFS.html#ga08faebeb106e557ca23e59786feced4f", null ],
+    [ "doca_devemu_vfs_dev_as_virtio_dev", "group__DOCA__DEVEMU__VFS.html#gad2df38ab0764f57750208527e44760ee", null ],
+    [ "doca_devemu_vfs_dev_create", "group__DOCA__DEVEMU__VFS.html#gab2eb8f400b3cc164ab2fe11338e593c7", null ],
+    [ "doca_devemu_vfs_dev_destroy", "group__DOCA__DEVEMU__VFS.html#ga534a3648d1750940c060ac5f55fda1cf", null ],
+    [ "doca_devemu_vfs_dev_get_notify_buf_size", "group__DOCA__DEVEMU__VFS.html#gae1a75cb3a7b9b7313fba2d3d0eddf499", null ],
+    [ "doca_devemu_vfs_dev_get_num_request_queues", "group__DOCA__DEVEMU__VFS.html#gaa4d354a735b4d92d43f5ac707a25d5d2", null ],
+    [ "doca_devemu_vfs_dev_get_req_src_domain_id_range", "group__DOCA__DEVEMU__VFS.html#ga357c0c95751ec60a5f36b80738202f56", null ],
+    [ "doca_devemu_vfs_dev_get_tag", "group__DOCA__DEVEMU__VFS.html#ga39395c12b02eafe4ab866c0f9589496f", null ],
+    [ "doca_devemu_vfs_dev_set_notify_buf_size", "group__DOCA__DEVEMU__VFS.html#ga54e571fd1bf1f7a6a3409ed098c662d2", null ],
+    [ "doca_devemu_vfs_dev_set_num_request_queues", "group__DOCA__DEVEMU__VFS.html#ga37be34f53b1f83e7641d2a2dad78f92f", null ],
+    [ "doca_devemu_vfs_dev_set_tag", "group__DOCA__DEVEMU__VFS.html#ga3c4564f421c713f80505d7525d0fd119", null ],
+    [ "doca_devemu_vfs_init", "group__DOCA__DEVEMU__VFS.html#gab3594b70d8d45077e9ad6301bc7d2b3b", null ],
+    [ "doca_devemu_vfs_teardown", "group__DOCA__DEVEMU__VFS.html#ga0ee17f390a536c542983e69ae756f81c", null ]
+];

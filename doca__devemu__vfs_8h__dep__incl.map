@@ -1,0 +1,9 @@
+<map id="include/doca_devemu_vfs.h" name="include/doca_devemu_vfs.h">
+<area shape="rect" id="node1" title=" " alt="" coords="305,5,469,47"/>
+<area shape="rect" id="node2" href="$doca__devemu__vfs__io_8h.html" title=" " alt="" coords="5,109,169,151"/>
+<area shape="rect" id="node3" href="$doca__devemu__vfs__type_8h.html" title=" " alt="" coords="245,109,409,151"/>
+<area shape="rect" id="node4" href="$devemu__vfs__device__hotplug__unplug__sample_8c.html" title=" " alt="" coords="108,213,320,284"/>
+<area shape="rect" id="node5" href="$devemu__vfs__list__devices__sample_8c.html" title=" " alt="" coords="348,213,539,284"/>
+<area shape="rect" id="node6" href="$devemu__vfs__device__hotplug__unplug__main_8c.html" title=" " alt="" coords="484,95,696,165"/>
+<area shape="rect" id="node7" href="$devemu__vfs__list__devices__main_8c.html" title=" " alt="" coords="720,102,961,158"/>
+</map>

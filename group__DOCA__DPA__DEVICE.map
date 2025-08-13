@@ -1,0 +1,9 @@
+<map id="DOCA DPA Device" name="DOCA DPA Device">
+<area shape="rect" id="node1" href="$group__DOCA__DPA__DEVICE__COMCH__MSQ.html" title=" " alt="" coords="331,5,569,31"/>
+<area shape="rect" id="node2" href="$group__DOCA__DPA__DEVICE__RDMA.html" title=" " alt="" coords="354,55,546,80"/>
+<area shape="rect" id="node3" href="$group__DOCA__DPA__DEVICE__DEVEMU__PCI.html" title=" " alt="" coords="351,105,549,145"/>
+<area shape="rect" id="node4" href="$group__DOCA__DPA.html" title=" " alt="" coords="5,112,96,137"/>
+<area shape="rect" id="node5" title=" " alt="" coords="144,112,283,137"/>
+<area shape="rect" id="node6" href="$group__DOCA__DPA__DEVICE__SYNC__EVENT.html" title=" " alt="" coords="359,169,541,209"/>
+<area shape="rect" id="node7" href="$group__DOCA__DPA__DEVICE__BUF.html" title=" " alt="" coords="355,233,545,259"/>
+</map>

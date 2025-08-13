@@ -1,0 +1,13 @@
+<map id="samples/doca_comch/comch_ctrl_path_common.h" name="samples/doca_comch/comch_ctrl_path_common.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1046,5,1255,47"/>
+<area shape="rect" id="node2" href="$comch__ctrl__path__client__main_8c.html" title=" " alt="" coords="5,109,232,165"/>
+<area shape="rect" id="node3" href="$comch__ctrl__path__client__sample_8c.html" title=" " alt="" coords="256,102,432,173"/>
+<area shape="rect" id="node4" href="$comch__ctrl__path__common_8c.html" title=" " alt="" coords="456,117,664,158"/>
+<area shape="rect" id="node5" href="$comch__ctrl__path__server__main_8c.html" title=" " alt="" coords="688,109,920,165"/>
+<area shape="rect" id="node6" href="$comch__ctrl__path__server__sample_8c.html" title=" " alt="" coords="944,102,1125,173"/>
+<area shape="rect" id="node7" href="$comch__data__path__high__speed__client__main_8c.html" title=" " alt="" coords="1150,102,1383,173"/>
+<area shape="rect" id="node8" href="$comch__data__path__high__speed__client__sample_8c.html" title=" " alt="" coords="1408,95,1603,180"/>
+<area shape="rect" id="node9" href="$comch__data__path__high__speed__common_8c.html" title=" " alt="" coords="1627,109,1803,165"/>
+<area shape="rect" id="node10" href="$comch__data__path__high__speed__server__main_8c.html" title=" " alt="" coords="1827,102,2066,173"/>
+<area shape="rect" id="node11" href="$comch__data__path__high__speed__server__sample_8c.html" title=" " alt="" coords="2090,95,2289,180"/>
+</map>

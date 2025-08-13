@@ -1,0 +1,10 @@
+<map id="include/doca_sta_handle.h" name="include/doca_sta_handle.h">
+<area shape="rect" id="node1" title=" " alt="" coords="573,5,767,32"/>
+<area shape="rect" id="node2" href="$doca__sta__be_8h.html" title=" " alt="" coords="5,87,172,114"/>
+<area shape="rect" id="node3" href="$doca__sta__event_8h.html" title=" " alt="" coords="197,87,383,114"/>
+<area shape="rect" id="node4" href="$doca__sta__io_8h.html" title=" " alt="" coords="407,87,570,114"/>
+<area shape="rect" id="node5" href="$doca__sta__io__non__offload_8h.html" title=" " alt="" coords="595,80,745,121"/>
+<area shape="rect" id="node6" href="$doca__sta__io__qp_8h.html" title=" " alt="" coords="769,87,955,114"/>
+<area shape="rect" id="node7" href="$doca__sta__stats_8h.html" title=" " alt="" coords="979,87,1161,114"/>
+<area shape="rect" id="node8" href="$doca__sta__subsystem_8h.html" title=" " alt="" coords="1186,87,1407,114"/>
+</map>

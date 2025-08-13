@@ -1,0 +1,10 @@
+<map id="ipsec_security_gw_rules" name="ipsec_security_gw_rules">
+<area shape="rect" id="node1" title=" " alt="" coords="576,135,756,161"/>
+<area shape="rect" id="node2" href="$structdecrypt__rule.html" title=" " alt="" coords="332,89,435,116"/>
+<area shape="rect" id="node3" href="$structbad__syndrome__entry.html" title=" " alt="" coords="10,5,169,32"/>
+<area shape="rect" id="node4" href="$structantireplay__state.html" title=" " alt="" coords="25,56,153,83"/>
+<area shape="rect" id="node5" href="$structipsec__security__gw__sa__attrs.html" title=" " alt="" coords="8,117,171,158"/>
+<area shape="rect" id="node6" href="$structencrypt__rule.html" title=" " alt="" coords="332,160,435,187"/>
+<area shape="rect" id="node7" href="$structipsec__security__gw__ip4.html" title=" " alt="" coords="5,192,173,219"/>
+<area shape="rect" id="node8" href="$structipsec__security__gw__ip6.html" title=" " alt="" coords="5,243,173,269"/>
+</map>

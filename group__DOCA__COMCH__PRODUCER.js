@@ -1,0 +1,27 @@
+var group__DOCA__COMCH__PRODUCER =
+[
+    [ "doca_comch_producer_task_send_completion_cb_t", "group__DOCA__COMCH__PRODUCER.html#ga1fbaf92c472e54c65660e065a495ef8b", null ],
+    [ "doca_dpa_dev_comch_producer_t", "group__DOCA__COMCH__PRODUCER.html#gafe4b373f6921c1302af3b7c331490411", null ],
+    [ "doca_comch_producer_as_ctx", "group__DOCA__COMCH__PRODUCER.html#gac410633b4ccdc3cea30957c84532fde1", null ],
+    [ "doca_comch_producer_cap_get_max_buf_list_len", "group__DOCA__COMCH__PRODUCER.html#gac9b0fc571abb60cbc751b64560788720", null ],
+    [ "doca_comch_producer_cap_get_max_buf_size", "group__DOCA__COMCH__PRODUCER.html#ga9c7d8b4211f44047dceba6431383f6a7", null ],
+    [ "doca_comch_producer_cap_get_max_num_tasks", "group__DOCA__COMCH__PRODUCER.html#gacf03ad80fe7b65ffa247f801985b8d5a", null ],
+    [ "doca_comch_producer_cap_get_max_producers", "group__DOCA__COMCH__PRODUCER.html#ga8577828e02a550e5338ec4b529970375", null ],
+    [ "doca_comch_producer_cap_is_supported", "group__DOCA__COMCH__PRODUCER.html#ga3b72300f6f2b2cd138820b1f8324ed8c", null ],
+    [ "doca_comch_producer_create", "group__DOCA__COMCH__PRODUCER.html#ga0d8d81041fb9283af1574fc8cd4f98b0", null ],
+    [ "doca_comch_producer_destroy", "group__DOCA__COMCH__PRODUCER.html#ga94697df042f0ea92f7a6a075e23f6fe6", null ],
+    [ "doca_comch_producer_dpa_completion_attach", "group__DOCA__COMCH__PRODUCER.html#gacfc984cbbda6eb6b42c3fc0962855ae2", null ],
+    [ "doca_comch_producer_get_dpa_handle", "group__DOCA__COMCH__PRODUCER.html#ga0afc25d9dc95f2aa39c60831b09fe595", null ],
+    [ "doca_comch_producer_get_id", "group__DOCA__COMCH__PRODUCER.html#ga203357be82319998c70ed6e8a3401476", null ],
+    [ "doca_comch_producer_set_dev_max_num_send", "group__DOCA__COMCH__PRODUCER.html#ga6be2829962a85b789a6853c078eed973", null ],
+    [ "doca_comch_producer_task_send_alloc_init", "group__DOCA__COMCH__PRODUCER.html#gad623dda35740594836e9f4e696ddb38a", null ],
+    [ "doca_comch_producer_task_send_as_task", "group__DOCA__COMCH__PRODUCER.html#ga6c36f69d55a4f46ac0ea230d0a20e788", null ],
+    [ "doca_comch_producer_task_send_get_buf", "group__DOCA__COMCH__PRODUCER.html#ga35498a0c7b79a980130e4e2875fcf2a2", null ],
+    [ "doca_comch_producer_task_send_get_consumer_id", "group__DOCA__COMCH__PRODUCER.html#ga77a3d78b186f81bf69079b4cfa875286", null ],
+    [ "doca_comch_producer_task_send_get_imm_data", "group__DOCA__COMCH__PRODUCER.html#ga871aed0dcf3e58a040e796c03e19e7c5", null ],
+    [ "doca_comch_producer_task_send_get_imm_data_len", "group__DOCA__COMCH__PRODUCER.html#gafe51d5bda8b71bffbab8d62ffc5ab6fe", null ],
+    [ "doca_comch_producer_task_send_set_buf", "group__DOCA__COMCH__PRODUCER.html#ga894c2db2386ee96f350699b4a2661b40", null ],
+    [ "doca_comch_producer_task_send_set_conf", "group__DOCA__COMCH__PRODUCER.html#ga840fe345cabf0a45af332dfc69a8260d", null ],
+    [ "doca_comch_producer_task_send_set_consumer_id", "group__DOCA__COMCH__PRODUCER.html#gab6045107fba4ba54263431a9e4637188", null ],
+    [ "doca_comch_producer_task_send_set_imm_data", "group__DOCA__COMCH__PRODUCER.html#gaabc209f5cfe4d9e9dba16cc54bf39bad", null ]
+];

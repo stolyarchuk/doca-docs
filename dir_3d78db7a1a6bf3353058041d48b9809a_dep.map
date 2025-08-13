@@ -1,0 +1,13 @@
+<map id="applications/simple_fwd_vnf" name="applications/simple_fwd_vnf">
+<area shape="rect" id="node1" href="dir_9b9a78a167dcc6bd3a401c7548c47f56.html" title="common" alt="" coords="62,148,141,196"/>
+<area shape="rect" id="node3" href="dir_02481c78e9b917285a4b7227e8bc70da.html" title="include" alt="" coords="5,244,77,292"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000002_000047.html" title="28" alt="" coords="64,226,82,241"/>
+<area shape="rect" id="node4" href="dir_c4eb813eeef3fabf556c400e0344aa28.html" title="lib" alt="" coords="79,340,151,388"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000002_000048.html" title="7" alt="" coords="116,314,125,328"/>
+<area shape="rect" id="node2" href="dir_3d78db7a1a6bf3353058041d48b9809a.html" title="simple_fwd_vnf" alt="" coords="39,52,163,100"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000035_000002.html" title="3" alt="" coords="105,122,114,137"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000035_000047.html" title="16" alt="" coords="39,218,56,233"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000035_000048.html" title="12" alt="" coords="132,319,150,334"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000047_000048.html" title="91" alt="" coords="84,313,101,328"/>
+<area shape="rect" id="clust1" href="dir_79e27ffc75d2d371e7ef151c1d0bd2da.html" title="applications" alt="" coords="29,16,173,207"/>
+</map>

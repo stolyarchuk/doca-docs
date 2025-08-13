@@ -1,0 +1,11 @@
+<map id="include/doca_dpa_dev_sync_event.h" name="include/doca_dpa_dev_sync_event.h">
+<area shape="rect" id="node1" title=" " alt="" coords="323,5,489,47"/>
+<area shape="rect" id="node2" href="$dpa__all__to__all__dev_8c.html" title=" " alt="" coords="245,206,407,262"/>
+<area shape="rect" id="node3" href="$doca__dpa__dev__comch__msgq_8h.html" title=" " alt="" coords="96,102,263,143"/>
+<area shape="rect" id="node5" href="$doca__dpa__dev__rdma_8h.html" title=" " alt="" coords="424,102,591,143"/>
+<area shape="rect" id="node9" href="$dpa__nvqual__kernels__dev_8c.html" title=" " alt="" coords="615,95,813,151"/>
+<area shape="rect" id="node4" href="$doca__transport__dev_8c.html" title=" " alt="" coords="5,213,220,255"/>
+<area shape="rect" id="node6" href="$dpa__basic__initiator__target__kernels__dev_8c.html" title=" " alt="" coords="647,199,843,269"/>
+<area shape="rect" id="node7" href="$dpa__initiator__target__kernels__dev_8c.html" title=" " alt="" coords="867,206,1116,262"/>
+<area shape="rect" id="node8" href="$dpa__ping__pong__kernels__dev_8c.html" title=" " alt="" coords="432,206,623,262"/>
+</map>

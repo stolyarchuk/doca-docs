@@ -1,0 +1,30 @@
+<map id="samples/doca_telemetry/telemetry_diag/telemetry_diag_sample.c" name="samples/doca_telemetry/telemetry_diag/telemetry_diag_sample.c">
+<area shape="rect" id="node1" title=" " alt="" coords="515,5,708,61"/>
+<area shape="rect" id="node2" href="$doca__error_8h.html" title=" " alt="" coords="255,259,357,285"/>
+<area shape="rect" id="node18" href="$doca__log_8h.html" title=" " alt="" coords="508,184,600,211"/>
+<area shape="rect" id="node20" href="$doca__dev_8h.html" title=" " alt="" coords="5,184,100,211"/>
+<area shape="rect" id="node22" href="$doca__telemetry__diag_8h.html" title=" " alt="" coords="125,184,295,211"/>
+<area shape="rect" id="node23" title=" " alt="" coords="613,109,681,136"/>
+<area shape="rect" id="node24" title=" " alt="" coords="706,109,770,136"/>
+<area shape="rect" id="node25" title=" " alt="" coords="795,109,863,136"/>
+<area shape="rect" id="node26" title=" " alt="" coords="887,109,962,136"/>
+<area shape="rect" id="node27" title=" " alt="" coords="986,109,1077,136"/>
+<area shape="rect" id="node28" href="$telemetry__diag__sample_8h.html" title=" " alt="" coords="349,109,537,136"/>
+<area shape="rect" id="node3" href="$doca__compat_8h.html" title=" " alt="" coords="433,333,555,360"/>
+<area shape="rect" id="node17" href="$doca__common__defines_8h.html" title=" " alt="" coords="175,333,357,360"/>
+<area shape="rect" id="node4" href="$doca__config_8h.html" title=" " alt="" coords="104,408,215,435"/>
+<area shape="rect" id="node6" title=" " alt="" coords="339,408,409,435"/>
+<area shape="rect" id="node7" href="$stdint_8h.html" title=" " alt="" coords="9,408,80,435"/>
+<area shape="rect" id="node8" title=" " alt="" coords="579,408,649,435"/>
+<area shape="rect" id="node9" title=" " alt="" coords="239,408,314,435"/>
+<area shape="rect" id="node10" href="$doca__version_8h.html" title=" " alt="" coords="434,408,554,435"/>
+<area shape="rect" id="node5" href="$doca__build__config_8h.html" title=" " alt="" coords="84,483,235,509"/>
+<area shape="rect" id="node11" href="$stddef_8h.html" title=" " alt="" coords="553,483,627,509"/>
+<area shape="rect" id="node12" href="$____stddef__ptrdiff__t_8h.html" title=" " alt="" coords="186,557,333,584"/>
+<area shape="rect" id="node13" href="$____stddef__size__t_8h.html" title=" " alt="" coords="357,557,492,584"/>
+<area shape="rect" id="node14" href="$____stddef__wchar__t_8h.html" title=" " alt="" coords="517,557,663,584"/>
+<area shape="rect" id="node15" href="$____stddef__null_8h.html" title=" " alt="" coords="687,557,807,584"/>
+<area shape="rect" id="node16" href="$____stddef__offsetof_8h.html" title=" " alt="" coords="832,557,977,584"/>
+<area shape="rect" id="node19" title=" " alt="" coords="621,259,687,285"/>
+<area shape="rect" id="node21" href="$doca__types_8h.html" title=" " alt="" coords="123,259,231,285"/>
+</map>

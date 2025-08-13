@@ -1,0 +1,30 @@
+<map id="applications/switch/switch_core.h" name="applications/switch/switch_core.h">
+<area shape="rect" id="node1" title=" " alt="" coords="610,5,757,47"/>
+<area shape="rect" id="node2" href="$flow__parser_8h.html" title=" " alt="" coords="712,95,820,121"/>
+<area shape="rect" id="node25" href="$flow__switch__common_8h.html" title=" " alt="" coords="513,95,688,121"/>
+<area shape="rect" id="node3" href="$doca__flow_8h.html" title=" " alt="" coords="717,169,815,196"/>
+<area shape="rect" id="node4" title=" " alt="" coords="673,244,739,271"/>
+<area shape="rect" id="node5" href="$stdint_8h.html" title=" " alt="" coords="700,468,771,495"/>
+<area shape="rect" id="node6" href="$stdbool_8h.html" title=" " alt="" coords="865,319,947,345"/>
+<area shape="rect" id="node7" href="$doca__compat_8h.html" title=" " alt="" coords="277,393,399,420"/>
+<area shape="rect" id="node20" href="$doca__error_8h.html" title=" " alt="" coords="452,319,555,345"/>
+<area shape="rect" id="node22" href="$doca__flow__net_8h.html" title=" " alt="" coords="764,244,891,271"/>
+<area shape="rect" id="node24" href="$doca__flow__crypto_8h.html" title=" " alt="" coords="331,244,478,271"/>
+<area shape="rect" id="node8" href="$doca__config_8h.html" title=" " alt="" coords="25,468,136,495"/>
+<area shape="rect" id="node10" title=" " alt="" coords="160,468,231,495"/>
+<area shape="rect" id="node11" title=" " alt="" coords="255,468,325,495"/>
+<area shape="rect" id="node12" title=" " alt="" coords="350,468,425,495"/>
+<area shape="rect" id="node13" href="$doca__version_8h.html" title=" " alt="" coords="449,468,569,495"/>
+<area shape="rect" id="node9" href="$doca__build__config_8h.html" title=" " alt="" coords="5,543,156,569"/>
+<area shape="rect" id="node14" href="$stddef_8h.html" title=" " alt="" coords="471,543,546,569"/>
+<area shape="rect" id="node15" href="$____stddef__ptrdiff__t_8h.html" title=" " alt="" coords="105,617,251,644"/>
+<area shape="rect" id="node16" href="$____stddef__size__t_8h.html" title=" " alt="" coords="276,617,411,644"/>
+<area shape="rect" id="node17" href="$____stddef__wchar__t_8h.html" title=" " alt="" coords="435,617,582,644"/>
+<area shape="rect" id="node18" href="$____stddef__null_8h.html" title=" " alt="" coords="606,617,726,644"/>
+<area shape="rect" id="node19" href="$____stddef__offsetof_8h.html" title=" " alt="" coords="751,617,896,644"/>
+<area shape="rect" id="node21" href="$doca__common__defines_8h.html" title=" " alt="" coords="423,393,605,420"/>
+<area shape="rect" id="node23" href="$doca__types_8h.html" title=" " alt="" coords="681,319,789,345"/>
+<area shape="rect" id="node26" title=" " alt="" coords="456,169,577,196"/>
+<area shape="rect" id="node27" href="$doca__dev_8h.html" title=" " alt="" coords="553,244,648,271"/>
+<area shape="rect" id="node28" title=" " alt="" coords="602,169,693,196"/>
+</map>

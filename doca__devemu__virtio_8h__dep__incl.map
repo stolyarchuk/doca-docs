@@ -1,0 +1,12 @@
+<map id="include/doca_devemu_virtio.h" name="include/doca_devemu_virtio.h">
+<area shape="rect" id="node1" title=" " alt="" coords="376,5,540,47"/>
+<area shape="rect" id="node2" href="$doca__devemu__vfs_8h.html" title=" " alt="" coords="376,95,540,136"/>
+<area shape="rect" id="node3" href="$doca__devemu__vfs__io_8h.html" title=" " alt="" coords="5,199,169,240"/>
+<area shape="rect" id="node4" href="$doca__devemu__vfs__type_8h.html" title=" " alt="" coords="797,199,961,240"/>
+<area shape="rect" id="node9" href="$doca__devemu__virtio__io_8h.html" title=" " alt="" coords="51,95,215,136"/>
+<area shape="rect" id="node10" href="$doca__devemu__virtio__type_8h.html" title=" " alt="" coords="628,95,792,136"/>
+<area shape="rect" id="node5" href="$devemu__vfs__device__hotplug__unplug__sample_8c.html" title=" " alt="" coords="443,303,655,373"/>
+<area shape="rect" id="node6" href="$devemu__vfs__list__devices__sample_8c.html" title=" " alt="" coords="724,303,915,373"/>
+<area shape="rect" id="node7" href="$devemu__vfs__device__hotplug__unplug__main_8c.html" title=" " alt="" coords="193,184,405,255"/>
+<area shape="rect" id="node8" href="$devemu__vfs__list__devices__main_8c.html" title=" " alt="" coords="480,191,721,247"/>
+</map>

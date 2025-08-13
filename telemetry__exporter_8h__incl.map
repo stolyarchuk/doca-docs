@@ -1,0 +1,24 @@
+<map id="applications/common/telemetry_exporter.h" name="applications/common/telemetry_exporter.h">
+<area shape="rect" id="node1" title=" " alt="" coords="179,5,342,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="79,102,146,129"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,423,76,449"/>
+<area shape="rect" id="node4" title=" " alt="" coords="565,102,649,129"/>
+<area shape="rect" id="node5" href="$doca__telemetry__exporter__netflow_8h.html" title=" " alt="" coords="354,95,541,136"/>
+<area shape="rect" id="node6" href="$stddef_8h.html" title=" " alt="" coords="645,497,719,524"/>
+<area shape="rect" id="node12" href="$stdint_8h.html" title=" " alt="" coords="573,423,644,449"/>
+<area shape="rect" id="node13" href="$doca__telemetry__exporter__netflow__types_8h.html" title=" " alt="" coords="246,184,433,225"/>
+<area shape="rect" id="node14" href="$doca__telemetry__exporter_8h.html" title=" " alt="" coords="457,191,654,218"/>
+<area shape="rect" id="node7" href="$____stddef__ptrdiff__t_8h.html" title=" " alt="" coords="278,572,425,599"/>
+<area shape="rect" id="node8" href="$____stddef__size__t_8h.html" title=" " alt="" coords="449,572,584,599"/>
+<area shape="rect" id="node9" href="$____stddef__wchar__t_8h.html" title=" " alt="" coords="609,572,755,599"/>
+<area shape="rect" id="node10" href="$____stddef__null_8h.html" title=" " alt="" coords="779,572,899,599"/>
+<area shape="rect" id="node11" href="$____stddef__offsetof_8h.html" title=" " alt="" coords="924,572,1069,599"/>
+<area shape="rect" id="node15" href="$doca__compat_8h.html" title=" " alt="" coords="428,348,549,375"/>
+<area shape="rect" id="node21" href="$doca__error_8h.html" title=" " alt="" coords="407,273,509,300"/>
+<area shape="rect" id="node16" href="$doca__config_8h.html" title=" " alt="" coords="100,423,211,449"/>
+<area shape="rect" id="node18" title=" " alt="" coords="235,423,305,449"/>
+<area shape="rect" id="node19" title=" " alt="" coords="330,423,405,449"/>
+<area shape="rect" id="node20" href="$doca__version_8h.html" title=" " alt="" coords="429,423,549,449"/>
+<area shape="rect" id="node17" href="$doca__build__config_8h.html" title=" " alt="" coords="80,497,231,524"/>
+<area shape="rect" id="node22" href="$doca__common__defines_8h.html" title=" " alt="" coords="221,348,404,375"/>
+</map>

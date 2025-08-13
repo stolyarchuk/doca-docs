@@ -1,0 +1,8 @@
+<map id="urom_worker_rdmo_cmd" name="urom_worker_rdmo_cmd">
+<area shape="rect" id="node1" title=" " alt="" coords="309,143,492,170"/>
+<area shape="rect" id="node2" href="$structurom__worker__rdmo__cmd__rq__create.html" title=" " alt="" coords="5,5,188,47"/>
+<area shape="rect" id="node3" href="$structurom__worker__rdmo__cmd__rq__destroy.html" title=" " alt="" coords="5,71,188,112"/>
+<area shape="rect" id="node4" href="$structurom__worker__rdmo__cmd__client__init.html" title=" " alt="" coords="5,136,188,177"/>
+<area shape="rect" id="node5" href="$structurom__worker__rdmo__cmd__mr__dereg.html" title=" " alt="" coords="5,201,188,243"/>
+<area shape="rect" id="node6" href="$structurom__worker__rdmo__cmd__mr__reg.html" title=" " alt="" coords="5,267,188,308"/>
+</map>

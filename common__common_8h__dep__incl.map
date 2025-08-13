@@ -1,0 +1,8 @@
+<map id="samples/doca_common/common_common.h" name="samples/doca_common/common_common.h">
+<area shape="rect" id="node1" title=" " alt="" coords="405,5,581,47"/>
+<area shape="rect" id="node2" href="$common__common_8c.html" title=" " alt="" coords="5,109,181,151"/>
+<area shape="rect" id="node3" href="$sync__event__local__pci__main_8c.html" title=" " alt="" coords="205,95,381,165"/>
+<area shape="rect" id="node4" href="$sync__event__local__pci__sample_8c.html" title=" " alt="" coords="405,95,581,165"/>
+<area shape="rect" id="node5" href="$sync__event__remote__pci__main_8c.html" title=" " alt="" coords="606,95,786,165"/>
+<area shape="rect" id="node6" href="$sync__event__remote__pci__sample_8c.html" title=" " alt="" coords="810,95,990,165"/>
+</map>

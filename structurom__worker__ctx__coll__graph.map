@@ -1,0 +1,5 @@
+<map id="urom_worker_ctx" name="urom_worker_ctx">
+<area shape="rect" id="node1" title="UROM worker context." alt="" coords="112,109,247,136"/>
+<area shape="rect" id="node2" href="$structurom__domain__lookups__iface.html" title="UROM Worker domain lookups interface." alt="" coords="5,5,175,47"/>
+<area shape="rect" id="node3" href="$structurom__plugin__iface.html" title="UROM Worker plugin interface." alt="" coords="199,13,341,39"/>
+</map>

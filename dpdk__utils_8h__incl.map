@@ -1,0 +1,24 @@
+<map id="applications/common/dpdk_utils.h" name="applications/common/dpdk_utils.h">
+<area shape="rect" id="node1" title=" " alt="" coords="223,5,385,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,72,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="79,244,150,271"/>
+<area shape="rect" id="node4" title=" " alt="" coords="147,95,243,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="267,95,341,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="366,95,458,121"/>
+<area shape="rect" id="node7" title=" " alt="" coords="483,95,568,121"/>
+<area shape="rect" id="node8" href="$doca__error_8h.html" title=" " alt="" coords="593,95,695,121"/>
+<area shape="rect" id="node9" href="$doca__compat_8h.html" title=" " alt="" coords="390,169,511,196"/>
+<area shape="rect" id="node22" href="$doca__common__defines_8h.html" title=" " alt="" coords="553,169,735,196"/>
+<area shape="rect" id="node10" href="$doca__config_8h.html" title=" " alt="" coords="182,244,293,271"/>
+<area shape="rect" id="node12" title=" " alt="" coords="317,244,387,271"/>
+<area shape="rect" id="node13" href="$stdint_8h.html" title=" " alt="" coords="411,244,482,271"/>
+<area shape="rect" id="node14" title=" " alt="" coords="507,244,581,271"/>
+<area shape="rect" id="node15" href="$doca__version_8h.html" title=" " alt="" coords="605,244,725,271"/>
+<area shape="rect" id="node11" href="$doca__build__config_8h.html" title=" " alt="" coords="162,319,313,345"/>
+<area shape="rect" id="node16" href="$stddef_8h.html" title=" " alt="" coords="628,319,703,345"/>
+<area shape="rect" id="node17" href="$____stddef__ptrdiff__t_8h.html" title=" " alt="" coords="261,393,408,420"/>
+<area shape="rect" id="node18" href="$____stddef__size__t_8h.html" title=" " alt="" coords="433,393,567,420"/>
+<area shape="rect" id="node19" href="$____stddef__wchar__t_8h.html" title=" " alt="" coords="592,393,739,420"/>
+<area shape="rect" id="node20" href="$____stddef__null_8h.html" title=" " alt="" coords="763,393,883,420"/>
+<area shape="rect" id="node21" href="$____stddef__offsetof_8h.html" title=" " alt="" coords="907,393,1053,420"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="include/doca_devemu_virtio_type.h" name="include/doca_devemu_virtio_type.h">
+<area shape="rect" id="node1" title=" " alt="" coords="157,5,321,47"/>
+<area shape="rect" id="node2" href="$stdint_8h.html" title=" " alt="" coords="326,543,397,569"/>
+<area shape="rect" id="node3" href="$doca__error_8h.html" title=" " alt="" coords="407,393,510,420"/>
+<area shape="rect" id="node18" href="$doca__dev_8h.html" title=" " alt="" coords="619,319,714,345"/>
+<area shape="rect" id="node20" href="$doca__devemu__pci_8h.html" title=" " alt="" coords="315,169,466,196"/>
+<area shape="rect" id="node26" href="$doca__devemu__virtio_8h.html" title=" " alt="" coords="155,95,322,121"/>
+<area shape="rect" id="node4" href="$doca__compat_8h.html" title=" " alt="" coords="778,468,899,495"/>
+<area shape="rect" id="node17" href="$doca__common__defines_8h.html" title=" " alt="" coords="367,468,550,495"/>
+<area shape="rect" id="node5" href="$doca__config_8h.html" title=" " alt="" coords="793,543,903,569"/>
+<area shape="rect" id="node7" title=" " alt="" coords="598,543,669,569"/>
+<area shape="rect" id="node8" title=" " alt="" coords="927,543,998,569"/>
+<area shape="rect" id="node9" title=" " alt="" coords="693,543,768,569"/>
+<area shape="rect" id="node10" href="$doca__version_8h.html" title=" " alt="" coords="453,543,573,569"/>
+<area shape="rect" id="node6" href="$doca__build__config_8h.html" title=" " alt="" coords="773,617,923,644"/>
+<area shape="rect" id="node11" href="$stddef_8h.html" title=" " alt="" coords="476,617,551,644"/>
+<area shape="rect" id="node12" href="$____stddef__ptrdiff__t_8h.html" title=" " alt="" coords="109,692,256,719"/>
+<area shape="rect" id="node13" href="$____stddef__size__t_8h.html" title=" " alt="" coords="281,692,415,719"/>
+<area shape="rect" id="node14" href="$____stddef__wchar__t_8h.html" title=" " alt="" coords="440,692,587,719"/>
+<area shape="rect" id="node15" href="$____stddef__null_8h.html" title=" " alt="" coords="611,692,731,719"/>
+<area shape="rect" id="node16" href="$____stddef__offsetof_8h.html" title=" " alt="" coords="755,692,901,719"/>
+<area shape="rect" id="node19" href="$doca__types_8h.html" title=" " alt="" coords="637,393,745,420"/>
+<area shape="rect" id="node21" title=" " alt="" coords="363,319,443,345"/>
+<area shape="rect" id="node22" href="$doca__mmap_8h.html" title=" " alt="" coords="864,319,979,345"/>
+<area shape="rect" id="node23" href="$doca__ctx_8h.html" title=" " alt="" coords="246,319,338,345"/>
+<area shape="rect" id="node24" href="$doca__pe_8h.html" title=" " alt="" coords="739,319,827,345"/>
+<area shape="rect" id="node25" href="$doca__devemu__pci__type_8h.html" title=" " alt="" coords="357,244,544,271"/>
+</map>

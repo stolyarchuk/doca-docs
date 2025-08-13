@@ -1,0 +1,48 @@
+var pcc__core_8h =
+[
+    [ "pcc_config", "structpcc__config.html", "structpcc__config" ],
+    [ "pcc_resources", "structpcc__resources.html", "structpcc__resources" ],
+    [ "IFA2_GNS_DEFAULT_VALUE", "pcc__core_8h.html#a48390f44d70afed81c0a86a1715f6917", null ],
+    [ "IFA2_GNS_IGNORE_DEFAULT_MASK", "pcc__core_8h.html#afa05e3a6c935e59c3e05808a5f1ea6bf", null ],
+    [ "IFA2_GNS_IGNORE_DEFAULT_VALUE", "pcc__core_8h.html#a7f28b662d273313b3dbc96d5316f5782", null ],
+    [ "IFA2_HOP_LIMIT_DEFAULT_VALUE", "pcc__core_8h.html#a30521e3d9effd78b87e2fcee8761a6d8", null ],
+    [ "LOG_LEVEL_CRIT", "pcc__core_8h.html#a77b5d680f9dceeaf78d977980a1789f1", null ],
+    [ "LOG_LEVEL_DEBUG", "pcc__core_8h.html#a130224df8c6bf22a688e3cb74a45689a", null ],
+    [ "LOG_LEVEL_ERROR", "pcc__core_8h.html#a742fc70e331d7e568bd893c514756a29", null ],
+    [ "LOG_LEVEL_INFO", "pcc__core_8h.html#a2e25fe130cf710da4ad800747fdd51f3", null ],
+    [ "LOG_LEVEL_WARNING", "pcc__core_8h.html#af539a66abed2a7a15e3443d70a3cf1e1", null ],
+    [ "MAX_ARG_SIZE", "pcc__core_8h.html#a79d0e990c7280f3356391dab6824a745", null ],
+    [ "MAX_USER_ARG_SIZE", "pcc__core_8h.html#a9f289b6830a32b7e8cc745094ec26d5a", null ],
+    [ "PCC_COREDUMP_FILE_DEFAULT_PATH", "pcc__core_8h.html#a3c6cfe862308eedd2e701277eed0b01c", null ],
+    [ "PCC_MAILBOX_REQUEST_SIZE", "pcc__core_8h.html#af20c4791ea8ba797fc0cf6df807467a3", null ],
+    [ "PCC_MAILBOX_RESPONSE_SIZE", "pcc__core_8h.html#a03332e8ac9fb6ced5f78f297969850a9", null ],
+    [ "PCC_NP_THREADS_NUM_DEFAULT_VALUE", "pcc__core_8h.html#a505219f8591adb4fb8497a06aee0da89", null ],
+    [ "PCC_PRINT_BUFFER_SIZE_DEFAULT_VALUE", "pcc__core_8h.html#a202c66395360ea82f5931c947714bc11", null ],
+    [ "PCC_RP_THREADS_NUM_DEFAULT_VALUE", "pcc__core_8h.html#a2d40c8528996ac9f73cee2e90da3a633", null ],
+    [ "PRINT_CRIT", "pcc__core_8h.html#ae114612e74db2a537477a79ef99e6388", null ],
+    [ "PRINT_DEBUG", "pcc__core_8h.html#a77496f90d44d7937b09d66c65d23991d", null ],
+    [ "PRINT_ERROR", "pcc__core_8h.html#abae3d14cbbaf9d1a2f0c8f0384cdd022", null ],
+    [ "PRINT_INFO", "pcc__core_8h.html#adef01fde516adf190e073951decf7b82", null ],
+    [ "PRINT_WARNING", "pcc__core_8h.html#a7b194b596a0536967bba2da85c7cf1fd", null ],
+    [ "WAIT_TIME_DEFAULT_VALUE", "pcc__core_8h.html#ae5bd622eb2822cdd817b7d14ce94cc10", null ],
+    [ "pcc_dev_probe_packet_type_t", "pcc__core_8h.html#a712afdaf21aa604d0fbd78f0d238160a", [
+      [ "PCC_DEV_PROBE_PACKET_CCMAD", "pcc__core_8h.html#a712afdaf21aa604d0fbd78f0d238160aaf8ff53a31595a9fe8c3b9186fef2c838", null ],
+      [ "PCC_DEV_PROBE_PACKET_IFA1", "pcc__core_8h.html#a712afdaf21aa604d0fbd78f0d238160aadb98cb4a88c3eb93fc629ca3569e2c64", null ],
+      [ "PCC_DEV_PROBE_PACKET_IFA2", "pcc__core_8h.html#a712afdaf21aa604d0fbd78f0d238160aaf1ef82b334a19b73dbeea39419f02892", null ]
+    ] ],
+    [ "pcc_role_t", "pcc__core_8h.html#a1f3a251f15c8a676dfbf9f2346c16811", [
+      [ "PCC_ROLE_RP", "pcc__core_8h.html#a1f3a251f15c8a676dfbf9f2346c16811a69cd700ec982cf5f268ede6ea752da76", null ],
+      [ "PCC_ROLE_NP", "pcc__core_8h.html#a1f3a251f15c8a676dfbf9f2346c16811a4bc2538c1fe018b40becc7ea3e52bfc9", null ]
+    ] ],
+    [ "pcc_destroy", "pcc__core_8h.html#af1a408c661ef8318f33036f12e2621f3", null ],
+    [ "pcc_init", "pcc__core_8h.html#a224f6f0c7b9c35809e4c46cab6741543", null ],
+    [ "pcc_mailbox_send", "pcc__core_8h.html#af0b7a21db7f537aa9f1e8ff22d02b64b", null ],
+    [ "register_pcc_params", "pcc__core_8h.html#adac0131961bb8019e00fb364d75badd0", null ],
+    [ "default_pcc_np_threads_list", "pcc__core_8h.html#a6c21964313bac4965d71c11261ff40c1", null ],
+    [ "default_pcc_rp_threads_list", "pcc__core_8h.html#a0a4fb891346f039ea96c00a4ed42842f", null ],
+    [ "log_level", "pcc__core_8h.html#ab5a71c2541c377b3d5b34fdb35964c2e", null ],
+    [ "pcc_np_nic_telemetry_app", "pcc__core_8h.html#a069d21a06f641d4d16379f963c9b0fad", null ],
+    [ "pcc_np_switch_telemetry_app", "pcc__core_8h.html#a4c9b3da5f46780adcd1fadebd8fcfbe6", null ],
+    [ "pcc_rp_rtt_template_app", "pcc__core_8h.html#a9f1b48eba930bcab242451df5e9490a2", null ],
+    [ "pcc_rp_switch_telemetry_app", "pcc__core_8h.html#a3f50bdd4f425f5313fb520e889ba18f8", null ]
+];

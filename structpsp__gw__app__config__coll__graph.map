@@ -1,0 +1,6 @@
+<map id="psp_gw_app_config" name="psp_gw_app_config">
+<area shape="rect" id="node1" title="describes the configuration of the PSP networking service on the local host." alt="" coords="55,184,203,211"/>
+<area shape="rect" id="node2" href="$structpsp__gw__net__config.html" title="describes a network of peers which participate in a network of PSP tunnel connections." alt="" coords="5,95,151,121"/>
+<area shape="rect" id="node3" href="$structapplication__dpdk__config.html" title=" " alt="" coords="175,95,354,121"/>
+<area shape="rect" id="node4" href="$structapplication__port__config.html" title=" " alt="" coords="178,5,351,32"/>
+</map>

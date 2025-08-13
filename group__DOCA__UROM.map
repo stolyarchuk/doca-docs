@@ -1,0 +1,9 @@
+<map id="DOCA UROM (Unified Resource and Offload Manager)" name="DOCA UROM (Unified Resource and Offload Manager)">
+<area shape="rect" id="node1" title=" " alt="" coords="5,116,171,171"/>
+<area shape="rect" id="node2" href="$group__DOCA__UROM__PLUGIN.html" title=" " alt="" coords="427,5,583,31"/>
+<area shape="rect" id="node3" href="$group__DOCA__UROM__ENV__VARS.html" title=" " alt="" coords="409,55,601,95"/>
+<area shape="rect" id="node4" href="$group__DOCA__UROM__DOMAIN.html" title=" " alt="" coords="422,121,589,147"/>
+<area shape="rect" id="node5" href="$group__DOCA__UROM__WORKER.html" title=" " alt="" coords="425,173,586,199"/>
+<area shape="rect" id="node6" href="$group__DOCA__UROM__WORKER__TASK.html" title=" " alt="" coords="408,223,603,248"/>
+<area shape="rect" id="node7" href="$group__DOCA__UROM__SERVICE.html" title=" " alt="" coords="423,272,587,297"/>
+</map>

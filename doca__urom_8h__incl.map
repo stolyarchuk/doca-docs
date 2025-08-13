@@ -1,0 +1,24 @@
+<map id="include/doca_urom.h" name="include/doca_urom.h">
+<area shape="rect" id="node1" title=" " alt="" coords="151,5,309,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,80,148,107"/>
+<area shape="rect" id="node3" href="$doca__error_8h.html" title=" " alt="" coords="224,155,327,181"/>
+<area shape="rect" id="node19" href="$doca__types_8h.html" title=" " alt="" coords="92,229,200,256"/>
+<area shape="rect" id="node20" href="$doca__urom__plugin_8h.html" title=" " alt="" coords="349,80,503,107"/>
+<area shape="rect" id="node4" href="$doca__compat_8h.html" title=" " alt="" coords="431,229,552,256"/>
+<area shape="rect" id="node18" href="$doca__common__defines_8h.html" title=" " alt="" coords="224,229,407,256"/>
+<area shape="rect" id="node5" href="$doca__config_8h.html" title=" " alt="" coords="683,304,793,331"/>
+<area shape="rect" id="node7" title=" " alt="" coords="249,304,320,331"/>
+<area shape="rect" id="node8" href="$stdint_8h.html" title=" " alt="" coords="140,304,211,331"/>
+<area shape="rect" id="node9" title=" " alt="" coords="344,304,415,331"/>
+<area shape="rect" id="node10" title=" " alt="" coords="439,304,514,331"/>
+<area shape="rect" id="node11" href="$doca__version_8h.html" title=" " alt="" coords="538,304,658,331"/>
+<area shape="rect" id="node6" href="$doca__build__config_8h.html" title=" " alt="" coords="663,379,813,405"/>
+<area shape="rect" id="node12" href="$stddef_8h.html" title=" " alt="" coords="561,379,635,405"/>
+<area shape="rect" id="node13" href="$____stddef__ptrdiff__t_8h.html" title=" " alt="" coords="194,453,341,480"/>
+<area shape="rect" id="node14" href="$____stddef__size__t_8h.html" title=" " alt="" coords="365,453,500,480"/>
+<area shape="rect" id="node15" href="$____stddef__wchar__t_8h.html" title=" " alt="" coords="525,453,671,480"/>
+<area shape="rect" id="node16" href="$____stddef__null_8h.html" title=" " alt="" coords="695,453,815,480"/>
+<area shape="rect" id="node17" href="$____stddef__offsetof_8h.html" title=" " alt="" coords="840,453,985,480"/>
+<area shape="rect" id="node21" href="$limits_8h.html" title=" " alt="" coords="577,155,648,181"/>
+<area shape="rect" id="node22" title=" " alt="" coords="351,155,501,181"/>
+</map>

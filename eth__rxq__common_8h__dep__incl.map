@@ -1,0 +1,10 @@
+<map id="samples/doca_eth/eth_rxq_common.h" name="samples/doca_eth/eth_rxq_common.h">
+<area shape="rect" id="node1" title=" " alt="" coords="478,5,643,47"/>
+<area shape="rect" id="node2" href="$eth__l2__fwd__core_8c.html" title=" " alt="" coords="5,213,177,255"/>
+<area shape="rect" id="node3" href="$eth__l2__fwd__core_8h.html" title=" " alt="" coords="129,109,302,151"/>
+<area shape="rect" id="node5" href="$eth__rxq__batch__managed__mempool__receive__sample_8c.html" title=" " alt="" coords="327,95,568,165"/>
+<area shape="rect" id="node6" href="$eth__rxq__common_8c.html" title=" " alt="" coords="593,109,758,151"/>
+<area shape="rect" id="node7" href="$eth__rxq__managed__mempool__receive__sample_8c.html" title=" " alt="" coords="783,95,995,165"/>
+<area shape="rect" id="node8" href="$eth__rxq__regular__receive__sample_8c.html" title=" " alt="" coords="1019,95,1201,165"/>
+<area shape="rect" id="node4" href="$eth__l2__fwd_8c.html" title=" " alt="" coords="201,213,347,255"/>
+</map>

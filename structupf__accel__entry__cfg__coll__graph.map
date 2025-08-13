@@ -1,0 +1,34 @@
+<map id="upf_accel_entry_cfg" name="upf_accel_entry_cfg">
+<area shape="rect" id="node1" title=" " alt="" coords="2292,359,2444,385"/>
+<area shape="rect" id="node2" href="$structdoca__flow__fwd.html" title="forwarding configuration" alt="" coords="2067,88,2185,115"/>
+<area shape="rect" id="node3" href="$structdoca__flow__resource__rss__cfg.html" title="doca flow rss resource configuration" alt="" coords="1747,42,1897,83"/>
+<area shape="rect" id="node4" href="$structdoca__flow__match.html" title="doca flow matcher information" alt="" coords="2059,176,2193,203"/>
+<area shape="rect" id="node5" href="$structdoca__flow__meta.html" title="doca flow meta data" alt="" coords="1758,209,1886,236"/>
+<area shape="rect" id="node23" href="$structdoca__flow__actions.html" title="doca flow actions information" alt="" coords="2055,413,2197,440"/>
+<area shape="rect" id="node6" href="$structdoca__flow__tun.html" title="doca flow tunnel information" alt="" coords="1091,108,1206,135"/>
+<area shape="rect" id="node27" href="$structdoca__flow__encap__action.html" title="doca flow encap data information" alt="" coords="1331,435,1511,461"/>
+<area shape="rect" id="node7" href="$uniondoca__flow__geneve__option.html" title="doca flow GENEVE option single DW." alt="" coords="701,107,891,133"/>
+<area shape="rect" id="node8" href="$structdoca__flow__header__mpls.html" title="doca flow MPLS header." alt="" coords="707,157,885,184"/>
+<area shape="rect" id="node9" href="$structdoca__flow__header__psp.html" title="doca flow psp header in match data and modify/encap actions" alt="" coords="711,5,881,32"/>
+<area shape="rect" id="node10" href="$structdoca__flow__header__geneve.html" title="doca flow GENEVE header." alt="" coords="699,56,893,83"/>
+<area shape="rect" id="node11" href="$structdoca__flow__header__format.html" title="doca flow packet format" alt="" coords="1053,435,1244,461"/>
+<area shape="rect" id="node12" href="$structdoca__flow__header__eth__vlan.html" title="doca flow vlan header" alt="" coords="695,699,897,725"/>
+<area shape="rect" id="node29" href="$structdoca__flow__push__vlan__action.html" title="doca flow push VLAN data information" alt="" coords="1069,734,1229,775"/>
+<area shape="rect" id="node30" href="$structdoca__flow__resource__decap__cfg.html" title="doca flow decap resource configuration" alt="" coords="1073,646,1224,687"/>
+<area shape="rect" id="node13" href="$structdoca__flow__header__eth.html" title="doca flow eth header" alt="" coords="713,617,879,644"/>
+<area shape="rect" id="node14" href="$structdoca__flow__header__l4__port.html" title="doca flow tcp or udp port header in match data" alt="" coords="5,353,196,380"/>
+<area shape="rect" id="node15" href="$structdoca__flow__header__tcp.html" title="doca flow tcp header in match data" alt="" coords="504,249,671,276"/>
+<area shape="rect" id="node17" href="$structdoca__flow__header__udp.html" title="doca flow udp header in match data" alt="" coords="301,353,472,380"/>
+<area shape="rect" id="node16" href="$structdoca__flow__header__icmp.html" title="doca flow icmp header in match data" alt="" coords="707,271,885,297"/>
+<area shape="rect" id="node19" href="$structdoca__flow__header__roce__v2.html" title="doca flow ROCEv2 header in match data" alt="" coords="697,435,895,461"/>
+<area shape="rect" id="node18" href="$structdoca__flow__header__ip4.html" title="doca flow ipv4 header in match data" alt="" coords="713,384,879,411"/>
+<area shape="rect" id="node20" href="$structdoca__flow__header__ib__bth.html" title="doca flow BTH header in match data" alt="" coords="293,435,480,461"/>
+<area shape="rect" id="node21" href="$structdoca__flow__header__ip6.html" title="doca flow ipv6 header in match data" alt="" coords="713,485,879,512"/>
+<area shape="rect" id="node22" href="$structdoca__flow__parser__meta.html" title="doca flow parser meta data" alt="" coords="1734,311,1910,337"/>
+<area shape="rect" id="node24" href="$structdoca__flow__crypto__encap__action.html" title="doca flow crypto encap action information" alt="" coords="1731,362,1913,403"/>
+<area shape="rect" id="node25" href="$structdoca__flow__crypto__action.html" title="doca flow crypto action information" alt="" coords="1731,647,1913,673"/>
+<area shape="rect" id="node26" href="$structdoca__flow__resource__encap__cfg.html" title="doca flow encap resource configuration" alt="" coords="1747,479,1897,521"/>
+<area shape="rect" id="node28" href="$structdoca__flow__push__action.html" title="doca flow push data information" alt="" coords="1535,724,1707,751"/>
+<area shape="rect" id="node31" href="$structdoca__flow__nat64__action.html" title="doca flow nat64 action" alt="" coords="1733,428,1911,455"/>
+<area shape="rect" id="node32" href="$structdoca__flow__monitor.html" title="doca monitor action configuration" alt="" coords="2053,464,2199,491"/>
+</map>

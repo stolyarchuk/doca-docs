@@ -1,0 +1,8 @@
+<map id="applications/nvme_emulation/host/nvme_pci_type_config.h" name="applications/nvme_emulation/host/nvme_pci_type_config.h">
+<area shape="rect" id="node1" title=" " alt="" coords="316,5,531,47"/>
+<area shape="rect" id="node2" href="$doca__transport_8c.html" title=" " alt="" coords="5,184,220,225"/>
+<area shape="rect" id="node3" href="$nvme__pci__common_8h.html" title=" " alt="" coords="244,95,459,136"/>
+<area shape="rect" id="node5" href="$nvmf__rpc_8c.html" title=" " alt="" coords="483,184,697,225"/>
+<area shape="rect" id="node6" href="$nvmf__doca__io_8c.html" title=" " alt="" coords="535,95,749,136"/>
+<area shape="rect" id="node4" href="$nvme__pci__common_8c.html" title=" " alt="" coords="244,184,459,225"/>
+</map>

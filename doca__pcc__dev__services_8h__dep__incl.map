@@ -1,0 +1,13 @@
+<map id="include/doca_pcc_dev_services.h" name="include/doca_pcc_dev_services.h">
+<area shape="rect" id="node1" title=" " alt="" coords="555,5,719,47"/>
+<area shape="rect" id="node2" href="$doca__pcc__dev_8h.html" title=" " alt="" coords="400,102,575,129"/>
+<area shape="rect" id="node9" href="$doca__pcc__np__dev_8h.html" title=" " alt="" coords="709,95,865,136"/>
+<area shape="rect" id="node3" href="$rtt__template_8c.html" title=" " alt="" coords="5,288,180,344"/>
+<area shape="rect" id="node4" href="$rp__rtt__template__dev__main_8c.html" title=" " alt="" coords="204,288,379,344"/>
+<area shape="rect" id="node5" href="$telem__template_8c.html" title=" " alt="" coords="403,288,591,344"/>
+<area shape="rect" id="node6" href="$rp__switch__telemetry__dev__main_8c.html" title=" " alt="" coords="615,288,839,344"/>
+<area shape="rect" id="node7" href="$doca__pcc__dev__algo__access_8h.html" title=" " alt="" coords="217,191,381,233"/>
+<area shape="rect" id="node8" href="$doca__pcc__dev__event_8h.html" title=" " alt="" coords="405,191,569,233"/>
+<area shape="rect" id="node10" href="$np__nic__telemetry__dev__main_8c.html" title=" " alt="" coords="696,184,879,240"/>
+<area shape="rect" id="node11" href="$np__switch__telemetry__dev__main_8c.html" title=" " alt="" coords="903,184,1127,240"/>
+</map>

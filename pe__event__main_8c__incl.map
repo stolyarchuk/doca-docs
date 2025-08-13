@@ -1,0 +1,21 @@
+<map id="samples/doca_common/pe_event/pe_event_main.c" name="samples/doca_common/pe_event/pe_event_main.c">
+<area shape="rect" id="node1" title=" " alt="" coords="368,5,569,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,319,76,345"/>
+<area shape="rect" id="node3" href="$doca__error_8h.html" title=" " alt="" coords="417,169,520,196"/>
+<area shape="rect" id="node18" href="$doca__log_8h.html" title=" " alt="" coords="537,95,629,121"/>
+<area shape="rect" id="node4" href="$doca__compat_8h.html" title=" " alt="" coords="419,244,540,271"/>
+<area shape="rect" id="node17" href="$doca__common__defines_8h.html" title=" " alt="" coords="212,244,395,271"/>
+<area shape="rect" id="node5" href="$doca__config_8h.html" title=" " alt="" coords="100,319,211,345"/>
+<area shape="rect" id="node7" title=" " alt="" coords="235,319,305,345"/>
+<area shape="rect" id="node8" href="$stdint_8h.html" title=" " alt="" coords="573,319,644,345"/>
+<area shape="rect" id="node9" title=" " alt="" coords="330,319,405,345"/>
+<area shape="rect" id="node10" href="$doca__version_8h.html" title=" " alt="" coords="429,319,549,345"/>
+<area shape="rect" id="node6" href="$doca__build__config_8h.html" title=" " alt="" coords="80,393,231,420"/>
+<area shape="rect" id="node11" href="$stddef_8h.html" title=" " alt="" coords="547,393,622,420"/>
+<area shape="rect" id="node12" href="$____stddef__ptrdiff__t_8h.html" title=" " alt="" coords="181,468,327,495"/>
+<area shape="rect" id="node13" href="$____stddef__size__t_8h.html" title=" " alt="" coords="352,468,487,495"/>
+<area shape="rect" id="node14" href="$____stddef__wchar__t_8h.html" title=" " alt="" coords="511,468,658,495"/>
+<area shape="rect" id="node15" href="$____stddef__null_8h.html" title=" " alt="" coords="682,468,802,495"/>
+<area shape="rect" id="node16" href="$____stddef__offsetof_8h.html" title=" " alt="" coords="827,468,972,495"/>
+<area shape="rect" id="node19" title=" " alt="" coords="719,169,786,196"/>
+</map>

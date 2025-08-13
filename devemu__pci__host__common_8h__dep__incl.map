@@ -1,0 +1,12 @@
+<map id="samples/doca_devemu/devemu_pci_host_common.h" name="samples/doca_devemu/devemu_pci_host_common.h">
+<area shape="rect" id="node1" title=" " alt="" coords="847,5,1063,47"/>
+<area shape="rect" id="node2" href="$devemu__pci__device__db__host__main_8c.html" title=" " alt="" coords="5,95,192,165"/>
+<area shape="rect" id="node3" href="$devemu__pci__device__db__host__sample_8c.html" title=" " alt="" coords="216,95,403,165"/>
+<area shape="rect" id="node4" href="$devemu__pci__device__dma__host__main_8c.html" title=" " alt="" coords="427,95,618,165"/>
+<area shape="rect" id="node5" href="$devemu__pci__device__dma__host__sample_8c.html" title=" " alt="" coords="642,95,833,165"/>
+<area shape="rect" id="node6" href="$devemu__pci__device__msix__host__main_8c.html" title=" " alt="" coords="857,95,1052,165"/>
+<area shape="rect" id="node7" href="$devemu__pci__device__msix__host__sample_8c.html" title=" " alt="" coords="1076,95,1271,165"/>
+<area shape="rect" id="node8" href="$devemu__pci__device__stateful__region__host__main_8c.html" title=" " alt="" coords="1295,95,1529,165"/>
+<area shape="rect" id="node9" href="$devemu__pci__device__stateful__region__host__sample_8c.html" title=" " alt="" coords="1553,95,1788,165"/>
+<area shape="rect" id="node10" href="$devemu__pci__host__common_8c.html" title=" " alt="" coords="1813,109,2027,151"/>
+</map>

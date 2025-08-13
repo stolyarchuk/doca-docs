@@ -1,0 +1,8 @@
+<map id="samples/doca_gpunetio/gpunetio_send_wait_time" name="samples/doca_gpunetio/gpunetio_send_wait_time">
+<area shape="rect" id="node3" href="dir_d44c64559bbebec7f509842c48db8b23.html" title="include" alt="" coords="115,159,187,207"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000213_000045.html" title="11" alt="" coords="179,143,196,157"/>
+<area shape="rect" id="node2" href="dir_6d037adca751a3988f46507ef3892bb9.html" title="host" alt="" coords="37,63,109,111"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000216_000045.html" title="4" alt="" coords="122,132,131,147"/>
+<area shape="rect" id="clust2" href="dir_dedddedb33b973420e86f3dbe3fc0f8c.html" alt="" coords="27,52,333,121"/>
+<area shape="rect" id="clust1" href="dir_f75a6fa023da339c6ac45c65a1330916.html" title="doca_gpunetio" alt="" coords="16,16,344,132"/>
+</map>

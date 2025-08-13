@@ -1,0 +1,35 @@
+var aes__gcm__common_8h =
+[
+    [ "aes_gcm_cfg", "structaes__gcm__cfg.html", "structaes__gcm__cfg" ],
+    [ "aes_gcm_resources", "structaes__gcm__resources.html", "structaes__gcm__resources" ],
+    [ "AES_GCM_AUTH_TAG_128_SIZE_IN_BYTES", "aes__gcm__common_8h.html#a87c92b4c7c996e551caf480f5923cdae", null ],
+    [ "AES_GCM_AUTH_TAG_96_SIZE_IN_BYTES", "aes__gcm__common_8h.html#a458af9b9cded27a3645880de40306734", null ],
+    [ "AES_GCM_KEY_128_SIZE_IN_BYTES", "aes__gcm__common_8h.html#aa966eb0ce40ef4ca288ce741ea086274", null ],
+    [ "AES_GCM_KEY_128_STR_SIZE", "aes__gcm__common_8h.html#a82dc85fb54f4c1b326fa49ba2cb97b20", null ],
+    [ "AES_GCM_KEY_256_SIZE_IN_BYTES", "aes__gcm__common_8h.html#aa6d415bf7e5f0b4719beda759004eb8a", null ],
+    [ "AES_GCM_KEY_256_STR_SIZE", "aes__gcm__common_8h.html#a3fe8f39a8ad5f2cbe2d95452d69e54de", null ],
+    [ "MAX_AES_GCM_IV_LENGTH", "aes__gcm__common_8h.html#ac8242cfa6e0416760df02f21917bceb1", null ],
+    [ "MAX_AES_GCM_IV_STR_LENGTH", "aes__gcm__common_8h.html#ac8a6019aad0d34a5a416633a18c8e7a7", null ],
+    [ "MAX_AES_GCM_KEY_SIZE", "aes__gcm__common_8h.html#a849b4c21e71322df1ccb8db797cb6ec8", null ],
+    [ "MAX_AES_GCM_KEY_STR_SIZE", "aes__gcm__common_8h.html#a7c7bcc2e3bb8f8207dc2703f561d43d2", null ],
+    [ "MAX_FILE_NAME", "aes__gcm__common_8h.html#af43dedece15d018ffad8970492870bac", null ],
+    [ "NUM_AES_GCM_TASKS", "aes__gcm__common_8h.html#a436b3b9d959dfa4675910e3dce76ad38", null ],
+    [ "SLEEP_IN_NANOS", "aes__gcm__common_8h.html#aefc0fec5d5724fe5f8ca0559f3db79f1", null ],
+    [ "USER_MAX_FILE_NAME", "aes__gcm__common_8h.html#a9b286efc5b3d9500b4b2f88f0dcfc513", null ],
+    [ "aes_gcm_mode", "aes__gcm__common_8h.html#ae6595e978b31de40702701333529badd", [
+      [ "AES_GCM_MODE_ENCRYPT", "aes__gcm__common_8h.html#ae6595e978b31de40702701333529badda03fd9f174bae1e29026da93ca07678aa", null ],
+      [ "AES_GCM_MODE_DECRYPT", "aes__gcm__common_8h.html#ae6595e978b31de40702701333529baddaa5020383ca0373a1e0aed47b625fb7ff", null ]
+    ] ],
+    [ "aes_gcm_task_decrypt_is_supported", "aes__gcm__common_8h.html#a495df79747c049a21062dfe66dd954c8", null ],
+    [ "aes_gcm_task_encrypt_is_supported", "aes__gcm__common_8h.html#aefb3eb7da20ea139f1bf5b940a39b815", null ],
+    [ "allocate_aes_gcm_resources", "aes__gcm__common_8h.html#a8d55d1d4d5354c361277510b48eb3f1e", null ],
+    [ "decrypt_completed_callback", "aes__gcm__common_8h.html#af685a37e87b6565cd32cb07d8960e528", null ],
+    [ "decrypt_error_callback", "aes__gcm__common_8h.html#a89f4d633c6d3bd8c6dfe0e316e60918f", null ],
+    [ "destroy_aes_gcm_resources", "aes__gcm__common_8h.html#a5131dfebff0e5ac95f2d9a2ae380315b", null ],
+    [ "encrypt_completed_callback", "aes__gcm__common_8h.html#a8cd2f79c85cc10650c6bb6eb344e8fba", null ],
+    [ "encrypt_error_callback", "aes__gcm__common_8h.html#aa0810c4b7dfbeeddd76d4820d08a3164", null ],
+    [ "init_aes_gcm_params", "aes__gcm__common_8h.html#a5b44fc48d5b0f8ee77f1222d9ade0308", null ],
+    [ "register_aes_gcm_params", "aes__gcm__common_8h.html#a6e6611e27ec3dea62f704a9f558e88f0", null ],
+    [ "submit_aes_gcm_decrypt_task", "aes__gcm__common_8h.html#a370e7db0c0bca2e1882876c71e9620f1", null ],
+    [ "submit_aes_gcm_encrypt_task", "aes__gcm__common_8h.html#a4fc4f254a70f869dcc0dab78951c8d69", null ]
+];

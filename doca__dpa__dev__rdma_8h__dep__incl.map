@@ -1,0 +1,7 @@
+<map id="include/doca_dpa_dev_rdma.h" name="include/doca_dpa_dev_rdma.h">
+<area shape="rect" id="node1" title=" " alt="" coords="330,5,497,47"/>
+<area shape="rect" id="node2" href="$dpa__all__to__all__dev_8c.html" title=" " alt="" coords="5,102,168,158"/>
+<area shape="rect" id="node3" href="$dpa__basic__initiator__target__kernels__dev_8c.html" title=" " alt="" coords="193,95,389,165"/>
+<area shape="rect" id="node4" href="$dpa__initiator__target__kernels__dev_8c.html" title=" " alt="" coords="413,102,662,158"/>
+<area shape="rect" id="node5" href="$dpa__ping__pong__kernels__dev_8c.html" title=" " alt="" coords="686,102,877,158"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="samples/doca_dpa/dpa_initiator_target/device" name="samples/doca_dpa/dpa_initiator_target/device">
+<area shape="rect" id="node1" href="dir_797d9d018eebf57d26a62ae2161d27c5.html" title="common" alt="" coords="75,148,154,196"/>
+<area shape="rect" id="node2" href="dir_373c118ad409667b6f7382d438cd671d.html" title="device" alt="" coords="81,52,153,100"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000139_000138.html" title="1" alt="" coords="120,123,129,137"/>
+<area shape="rect" id="node3" href="dir_02481c78e9b917285a4b7227e8bc70da.html" title="include" alt="" coords="179,148,251,196"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000139_000047.html" title="3" alt="" coords="179,122,188,137"/>
+<area shape="rect" id="clust1" href="dir_b9dc1a94ad7086f7306531a690c26cdc.html" title="dpa_initiator_target" alt="" coords="16,16,167,207"/>
+</map>

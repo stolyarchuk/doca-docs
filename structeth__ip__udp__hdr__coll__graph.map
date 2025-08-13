@@ -1,0 +1,6 @@
+<map id="eth_ip_udp_hdr" name="eth_ip_udp_hdr">
+<area shape="rect" id="node1" title=" " alt="" coords="85,95,207,121"/>
+<area shape="rect" id="node2" href="$structipv4__hdr.html" title=" " alt="" coords="5,5,84,32"/>
+<area shape="rect" id="node3" href="$structudp__hdr.html" title=" " alt="" coords="109,5,183,32"/>
+<area shape="rect" id="node4" href="$structether__hdr.html" title=" " alt="" coords="208,5,292,32"/>
+</map>

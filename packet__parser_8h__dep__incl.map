@@ -1,0 +1,12 @@
+<map id="applications/common/packet_parser.h" name="applications/common/packet_parser.h">
+<area shape="rect" id="node1" title=" " alt="" coords="187,5,349,47"/>
+<area shape="rect" id="node2" href="$packet__parser_8c.html" title=" " alt="" coords="5,95,168,136"/>
+<area shape="rect" id="node3" href="$ip__frag__dp_8c.html" title=" " alt="" coords="193,95,343,136"/>
+<area shape="rect" id="node4" href="$upf__accel_8h.html" title=" " alt="" coords="367,95,534,136"/>
+<area shape="rect" id="node5" href="$upf__accel_8c.html" title=" " alt="" coords="54,273,221,315"/>
+<area shape="rect" id="node6" href="$upf__accel__flow__processing_8c.html" title=" " alt="" coords="245,273,456,315"/>
+<area shape="rect" id="node7" href="$upf__accel__flow__processing_8h.html" title=" " alt="" coords="73,184,284,225"/>
+<area shape="rect" id="node8" href="$upf__accel__json__parser_8c.html" title=" " alt="" coords="601,184,781,225"/>
+<area shape="rect" id="node9" href="$upf__accel__pipeline_8c.html" title=" " alt="" coords="479,273,646,315"/>
+<area shape="rect" id="node10" href="$upf__accel__pipeline_8h.html" title=" " alt="" coords="307,184,474,225"/>
+</map>

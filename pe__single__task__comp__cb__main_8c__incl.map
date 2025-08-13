@@ -1,0 +1,21 @@
+<map id="samples/doca_common/pe_single_task_comp_cb/pe_single_task_comp_cb_main.c" name="samples/doca_common/pe_single_task_comp_cb/pe_single_task_comp_cb_main.c">
+<area shape="rect" id="node1" title=" " alt="" coords="375,5,563,76"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,348,76,375"/>
+<area shape="rect" id="node3" href="$doca__error_8h.html" title=" " alt="" coords="417,199,520,225"/>
+<area shape="rect" id="node18" href="$doca__log_8h.html" title=" " alt="" coords="537,124,629,151"/>
+<area shape="rect" id="node4" href="$doca__compat_8h.html" title=" " alt="" coords="419,273,540,300"/>
+<area shape="rect" id="node17" href="$doca__common__defines_8h.html" title=" " alt="" coords="212,273,395,300"/>
+<area shape="rect" id="node5" href="$doca__config_8h.html" title=" " alt="" coords="100,348,211,375"/>
+<area shape="rect" id="node7" title=" " alt="" coords="235,348,305,375"/>
+<area shape="rect" id="node8" href="$stdint_8h.html" title=" " alt="" coords="573,348,644,375"/>
+<area shape="rect" id="node9" title=" " alt="" coords="330,348,405,375"/>
+<area shape="rect" id="node10" href="$doca__version_8h.html" title=" " alt="" coords="429,348,549,375"/>
+<area shape="rect" id="node6" href="$doca__build__config_8h.html" title=" " alt="" coords="80,423,231,449"/>
+<area shape="rect" id="node11" href="$stddef_8h.html" title=" " alt="" coords="547,423,622,449"/>
+<area shape="rect" id="node12" href="$____stddef__ptrdiff__t_8h.html" title=" " alt="" coords="181,497,327,524"/>
+<area shape="rect" id="node13" href="$____stddef__size__t_8h.html" title=" " alt="" coords="352,497,487,524"/>
+<area shape="rect" id="node14" href="$____stddef__wchar__t_8h.html" title=" " alt="" coords="511,497,658,524"/>
+<area shape="rect" id="node15" href="$____stddef__null_8h.html" title=" " alt="" coords="682,497,802,524"/>
+<area shape="rect" id="node16" href="$____stddef__offsetof_8h.html" title=" " alt="" coords="827,497,972,524"/>
+<area shape="rect" id="node19" title=" " alt="" coords="719,199,786,225"/>
+</map>

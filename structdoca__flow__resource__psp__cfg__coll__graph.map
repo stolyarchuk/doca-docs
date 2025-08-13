@@ -1,0 +1,4 @@
+<map id="doca_flow_resource_psp_cfg" name="doca_flow_resource_psp_cfg">
+<area shape="rect" id="node1" title="doca flow psp resource configuration" alt="" coords="26,95,177,136"/>
+<area shape="rect" id="node2" href="$structdoca__flow__crypto__key__cfg.html" title="doca flow crypto key configuration" alt="" coords="5,5,197,32"/>
+</map>

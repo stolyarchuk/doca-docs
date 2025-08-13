@@ -1,0 +1,5 @@
+<map id="doca_flow_action_descs" name="doca_flow_action_descs">
+<area shape="rect" id="node1" title="action descriptor array" alt="" coords="5,199,184,225"/>
+<area shape="rect" id="node2" href="$structdoca__flow__action__desc.html" title="action description" alt="" coords="9,109,180,136"/>
+<area shape="rect" id="node3" href="$structdoca__flow__desc__field.html" title="Action descriptor field." alt="" coords="15,5,174,32"/>
+</map>

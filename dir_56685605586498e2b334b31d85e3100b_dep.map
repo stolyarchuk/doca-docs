@@ -1,0 +1,11 @@
+<map id="samples/doca_dpa/dpa_ping_pong" name="samples/doca_dpa/dpa_ping_pong">
+<area shape="rect" id="node2" href="dir_00fb30c8c07b24d1bed8f4ebee9ae8ab.html" title="common" alt="" coords="83,159,162,207"/>
+<area shape="rect" id="node3" href="dir_8e943f33550778ecbf660e62fb77e116.html" title="device" alt="" coords="133,63,205,111"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000140_000139.html" title="1" alt="" coords="145,139,154,153"/>
+<area shape="rect" id="node5" href="dir_d44c64559bbebec7f509842c48db8b23.html" title="include" alt="" coords="381,159,453,207"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000140_000045.html" title="3" alt="" coords="363,143,372,158"/>
+<area shape="rect" id="node4" href="dir_9c98a16446d20e3d42beeb8e5576becd.html" title="host" alt="" coords="37,63,109,111"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000141_000139.html" title="1" alt="" coords="105,131,114,146"/>
+<area shape="rect" id="clust2" href="dir_56685605586498e2b334b31d85e3100b.html" alt="" coords="27,52,360,217"/>
+<area shape="rect" id="clust1" href="dir_87fb13ff1bd01eb6be12969ddaaa5a66.html" title="doca_dpa" alt="" coords="16,16,371,228"/>
+</map>

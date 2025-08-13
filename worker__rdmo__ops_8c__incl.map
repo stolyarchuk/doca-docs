@@ -1,0 +1,29 @@
+<map id="applications/urom_rdmo/dpu/worker_rdmo_ops.c" name="applications/urom_rdmo/dpu/worker_rdmo_ops.c">
+<area shape="rect" id="node1" title=" " alt="" coords="730,5,910,47"/>
+<area shape="rect" id="node2" href="$stdint_8h.html" title=" " alt="" coords="685,393,755,420"/>
+<area shape="rect" id="node3" title=" " alt="" coords="18,393,89,420"/>
+<area shape="rect" id="node4" href="$dpu_2worker__rdmo_8h.html" title=" " alt="" coords="505,95,623,121"/>
+<area shape="rect" id="node27" href="$urom__rdmo_8h.html" title=" " alt="" coords="831,95,940,121"/>
+<area shape="rect" id="node5" href="$doca__log_8h.html" title=" " alt="" coords="454,169,546,196"/>
+<area shape="rect" id="node19" href="$doca__error_8h.html" title=" " alt="" coords="365,244,467,271"/>
+<area shape="rect" id="node21" title=" " alt="" coords="959,169,1067,196"/>
+<area shape="rect" id="node22" title=" " alt="" coords="570,169,739,196"/>
+<area shape="rect" id="node23" title=" " alt="" coords="43,244,194,271"/>
+<area shape="rect" id="node24" title=" " alt="" coords="764,169,935,196"/>
+<area shape="rect" id="node25" href="$doca__urom__plugin_8h.html" title=" " alt="" coords="225,169,378,196"/>
+<area shape="rect" id="node6" href="$stddef_8h.html" title=" " alt="" coords="560,468,635,495"/>
+<area shape="rect" id="node12" title=" " alt="" coords="543,244,609,271"/>
+<area shape="rect" id="node13" href="$doca__compat_8h.html" title=" " alt="" coords="369,319,490,345"/>
+<area shape="rect" id="node7" href="$____stddef__ptrdiff__t_8h.html" title=" " alt="" coords="193,543,340,569"/>
+<area shape="rect" id="node8" href="$____stddef__size__t_8h.html" title=" " alt="" coords="365,543,499,569"/>
+<area shape="rect" id="node9" href="$____stddef__wchar__t_8h.html" title=" " alt="" coords="524,543,671,569"/>
+<area shape="rect" id="node10" href="$____stddef__null_8h.html" title=" " alt="" coords="695,543,815,569"/>
+<area shape="rect" id="node11" href="$____stddef__offsetof_8h.html" title=" " alt="" coords="839,543,985,569"/>
+<area shape="rect" id="node14" href="$doca__config_8h.html" title=" " alt="" coords="159,393,270,420"/>
+<area shape="rect" id="node16" title=" " alt="" coords="394,393,465,420"/>
+<area shape="rect" id="node17" title=" " alt="" coords="295,393,369,420"/>
+<area shape="rect" id="node18" href="$doca__version_8h.html" title=" " alt="" coords="489,393,609,420"/>
+<area shape="rect" id="node15" href="$doca__build__config_8h.html" title=" " alt="" coords="139,468,290,495"/>
+<area shape="rect" id="node20" href="$doca__common__defines_8h.html" title=" " alt="" coords="162,319,345,345"/>
+<area shape="rect" id="node26" href="$limits_8h.html" title=" " alt="" coords="270,244,341,271"/>
+</map>

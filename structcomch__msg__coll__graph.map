@@ -1,0 +1,6 @@
+<map id="comch_msg" name="comch_msg">
+<area shape="rect" id="node1" title=" " alt="" coords="265,109,365,136"/>
+<area shape="rect" id="node2" href="$structcomch__msg__dma__export__discriptor.html" title=" " alt="" coords="5,5,191,47"/>
+<area shape="rect" id="node3" href="$structcomch__msg__dma__direction.html" title=" " alt="" coords="215,13,415,39"/>
+<area shape="rect" id="node4" href="$structcomch__msg__dma__status.html" title=" " alt="" coords="440,13,623,39"/>
+</map>

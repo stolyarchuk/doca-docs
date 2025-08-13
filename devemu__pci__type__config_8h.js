@@ -1,0 +1,25 @@
+var devemu__pci__type__config_8h =
+[
+    [ "bar_memory_layout_config", "structbar__memory__layout__config.html", "structbar__memory__layout__config" ],
+    [ "bar_region_config", "structbar__region__config.html", "structbar__region__config" ],
+    [ "bar_db_region_config", "structbar__db__region__config.html", "structbar__db__region__config" ],
+    [ "PCI_TYPE_CLASS_CODE", "devemu__pci__type__config_8h.html#ad47a67f85e83e5aa0359331ba65cee30", null ],
+    [ "PCI_TYPE_DEVICE_ID", "devemu__pci__type__config_8h.html#a7454a652b5bd5e2568348b9288fa3425", null ],
+    [ "PCI_TYPE_MAX_STATEFUL_REGION_SIZE", "devemu__pci__type__config_8h.html#aecbbaf1a3a6ebc486ec03ecb8d32b8cb", null ],
+    [ "PCI_TYPE_NAME", "devemu__pci__type__config_8h.html#a6691293ce9194c4f6ecc813b2c5ef692", null ],
+    [ "PCI_TYPE_NUM_BAR_DB_REGIONS", "devemu__pci__type__config_8h.html#a8e9a173889b13de06287719ab04b7b32", null ],
+    [ "PCI_TYPE_NUM_BAR_MEMORY_LAYOUT", "devemu__pci__type__config_8h.html#a3da141990b1c3bcc345a23d3906e6d95", null ],
+    [ "PCI_TYPE_NUM_BAR_MSIX_PBA_REGIONS", "devemu__pci__type__config_8h.html#a0ec91aa9253f1b9554988bcd53c48b99", null ],
+    [ "PCI_TYPE_NUM_BAR_MSIX_TABLE_REGIONS", "devemu__pci__type__config_8h.html#a38d032b51c8a70de336b6cd9a63fb619", null ],
+    [ "PCI_TYPE_NUM_BAR_STATEFUL_REGIONS", "devemu__pci__type__config_8h.html#a8ffc03f9fc6f6dfe9143d190731edf91", null ],
+    [ "PCI_TYPE_NUM_MSIX", "devemu__pci__type__config_8h.html#afa6941ebd736c6bdd42b658c83687d9b", null ],
+    [ "PCI_TYPE_REVISION_ID", "devemu__pci__type__config_8h.html#a9291eb2a60cfe257aa22e00a5b87c92b", null ],
+    [ "PCI_TYPE_SUBSYSTEM_ID", "devemu__pci__type__config_8h.html#a4773a07b94dbe475ca14dfaac07dec9d", null ],
+    [ "PCI_TYPE_SUBSYSTEM_VENDOR_ID", "devemu__pci__type__config_8h.html#a130770ff6a3c87d746900d2563a35957", null ],
+    [ "PCI_TYPE_VENDOR_ID", "devemu__pci__type__config_8h.html#a5e602f987c7d629b4eff2b61082a78d5", null ],
+    [ "db_configs", "devemu__pci__type__config_8h.html#a3ecd6b419ed5bb0a385d916c97a03ba2", null ],
+    [ "layout_configs", "devemu__pci__type__config_8h.html#a39d167054785466118fe1c08ee9bfbcc", null ],
+    [ "msix_pba_configs", "devemu__pci__type__config_8h.html#a84feac5cf3988e93496181ff874d601e", null ],
+    [ "msix_table_configs", "devemu__pci__type__config_8h.html#a9c4472beb6a448c22f6881de5615a57c", null ],
+    [ "stateful_configs", "devemu__pci__type__config_8h.html#af047b6daceb9e7e2961516956600991c", null ]
+];

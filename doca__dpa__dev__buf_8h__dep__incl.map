@@ -1,0 +1,10 @@
+<map id="include/doca_dpa_dev_buf.h" name="include/doca_dpa_dev_buf.h">
+<area shape="rect" id="node1" title=" " alt="" coords="393,5,559,47"/>
+<area shape="rect" id="node2" href="$dpa__all__to__all__dev_8c.html" title=" " alt="" coords="5,191,168,247"/>
+<area shape="rect" id="node3" href="$doca__dpa__dev__comch__msgq_8h.html" title=" " alt="" coords="823,95,990,136"/>
+<area shape="rect" id="node5" href="$doca__dpa__dev__rdma_8h.html" title=" " alt="" coords="333,95,499,136"/>
+<area shape="rect" id="node6" href="$dpa__basic__initiator__target__kernels__dev_8c.html" title=" " alt="" coords="193,184,389,255"/>
+<area shape="rect" id="node7" href="$dpa__initiator__target__kernels__dev_8c.html" title=" " alt="" coords="413,191,662,247"/>
+<area shape="rect" id="node8" href="$dpa__ping__pong__kernels__dev_8c.html" title=" " alt="" coords="686,191,877,247"/>
+<area shape="rect" id="node4" href="$doca__transport__dev_8c.html" title=" " alt="" coords="901,199,1115,240"/>
+</map>

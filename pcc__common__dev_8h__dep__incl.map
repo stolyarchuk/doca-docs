@@ -1,0 +1,7 @@
+<map id="applications/pcc/device/pcc_common_dev.h" name="applications/pcc/device/pcc_common_dev.h">
+<area shape="rect" id="node1" title=" " alt="" coords="349,5,524,47"/>
+<area shape="rect" id="node2" href="$np__nic__telemetry__dev__main_8c.html" title=" " alt="" coords="5,95,188,151"/>
+<area shape="rect" id="node3" href="$np__switch__telemetry__dev__main_8c.html" title=" " alt="" coords="213,95,437,151"/>
+<area shape="rect" id="node4" href="$rp__rtt__template__dev__main_8c.html" title=" " alt="" coords="461,95,636,151"/>
+<area shape="rect" id="node5" href="$rp__switch__telemetry__dev__main_8c.html" title=" " alt="" coords="661,95,885,151"/>
+</map>

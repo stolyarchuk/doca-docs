@@ -1,0 +1,28 @@
+var structipsec__security__gw__config =
+[
+    [ "app_rules", "structipsec__security__gw__config.html#a2a26b68bd1d9f8d1e358a6f87ed981a7", null ],
+    [ "debug_mode", "structipsec__security__gw__config.html#a8a3942fc7d2e5804ea96e5b7d411302f", null ],
+    [ "decrypt_pipes", "structipsec__security__gw__config.html#a11cd50b588ae7a671c01628ae566bdb8", null ],
+    [ "dpdk_config", "structipsec__security__gw__config.html#a5a8efc79086301e3910d64fd71d24b0f", null ],
+    [ "encrypt_pipes", "structipsec__security__gw__config.html#a98b8c2e4eb4c95ba9b8a17d17ccc1f36", null ],
+    [ "flow_mode", "structipsec__security__gw__config.html#a1b543060d676891543395d9452d02f61", null ],
+    [ "icv_length", "structipsec__security__gw__config.html#a5d4934cecaaeaff6a3a19f96b86469c6", null ],
+    [ "ip6_table", "structipsec__security__gw__config.html#a93deaa87241b09ab0959747825dd2903", null ],
+    [ "json_path", "structipsec__security__gw__config.html#a81cc76f64fc2d6a814056d6435a3173d", null ],
+    [ "marker_encap", "structipsec__security__gw__config.html#a2399c3e6d6d705bb862ad4bb96f02fd9", null ],
+    [ "mode", "structipsec__security__gw__config.html#a1967e74fcad2799cd7db5ef6cbf5cb24", null ],
+    [ "nb_cores", "structipsec__security__gw__config.html#af33117ba108a563f5f23124e8c5774b9", null ],
+    [ "objects", "structipsec__security__gw__config.html#afa4f4938d2af021a11004e76fce0b14e", null ],
+    [ "offload", "structipsec__security__gw__config.html#ad7e8e4b2d97e9c49108d581f4e0e22f1", null ],
+    [ "perf_measurement", "structipsec__security__gw__config.html#ad3d8f4625db68906fed1c5342e049f43", null ],
+    [ "secured_status", "structipsec__security__gw__config.html#ae60e217f91e0867522bae662dc479cd8", null ],
+    [ "sn_initial", "structipsec__security__gw__config.html#a78526159b9fcdc51ae43f8890754e873", null ],
+    [ "socket_ctx", "structipsec__security__gw__config.html#a2c597909030e725a90c7ad736449cc2d", null ],
+    [ "sw_antireplay", "structipsec__security__gw__config.html#a6bc803153d03e3fa88f0b4f10f28eea5", null ],
+    [ "sw_sn_inc_enable", "structipsec__security__gw__config.html#a2ff9db55f92cd79662032668403bde60", null ],
+    [ "switch_pipes", "structipsec__security__gw__config.html#a06977e70f8bd2653c4c09767b467a2fb", null ],
+    [ "syndrome_fwd", "structipsec__security__gw__config.html#a4fb14dd23a432f2877558379b179a9c7", null ],
+    [ "unsecured_status", "structipsec__security__gw__config.html#af31441f5ab2cb1d3cbae5229b82b700d", null ],
+    [ "vni", "structipsec__security__gw__config.html#ad12c02e42aa232eb043c78a2097db068", null ],
+    [ "vxlan_encap", "structipsec__security__gw__config.html#a80479394e58ce9759905906c29463bef", null ]
+];

@@ -1,0 +1,5 @@
+<map id="doca_flow_resource_decap_cfg" name="doca_flow_resource_decap_cfg">
+<area shape="rect" id="node1" title="doca flow decap resource configuration" alt="" coords="135,95,286,136"/>
+<area shape="rect" id="node2" href="$structdoca__flow__header__eth__vlan.html" title="doca flow vlan header" alt="" coords="5,5,208,32"/>
+<area shape="rect" id="node3" href="$structdoca__flow__header__eth.html" title="doca flow eth header" alt="" coords="233,5,399,32"/>
+</map>

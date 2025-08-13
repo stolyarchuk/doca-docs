@@ -1,0 +1,6 @@
+<map id="samples/doca_gpunetio/gpunetio_simple_receive/host" name="samples/doca_gpunetio/gpunetio_simple_receive/host">
+<area shape="rect" id="node1" href="dir_bee4cefeba0b026d3dbfb91e06e8d9de.html" title="host" alt="" coords="72,52,144,100"/>
+<area shape="rect" id="node2" href="dir_d44c64559bbebec7f509842c48db8b23.html" title="include" alt="" coords="72,148,144,196"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000217_000045.html" title="2" alt="" coords="112,122,121,137"/>
+<area shape="rect" id="clust1" href="dir_6815b7c4e4226a5d8752cc6243dd1dd8.html" title="gpunetio_simple_receive" alt="" coords="16,16,201,111"/>
+</map>

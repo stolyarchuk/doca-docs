@@ -1,0 +1,36 @@
+var doca__transport__common_8h =
+[
+    [ "comch_msg", "structcomch__msg.html", "structcomch__msg" ],
+    [ "io_thread_arg", "structio__thread__arg.html", "structio__thread__arg" ],
+    [ "MAX_NUM_COMCH_MSGS", "doca__transport__common_8h.html#aba09a08939f1af39978f9d57c66d3d59", null ],
+    [ "RPC_RETURN_STATUS_ERROR", "doca__transport__common_8h.html#a274f43019aebe0302057ec24ec97268c", null ],
+    [ "RPC_RETURN_STATUS_SUCCESS", "doca__transport__common_8h.html#ad748dc78517cfaa21c37d1da31df1b93", null ],
+    [ "comch_msg_type", "doca__transport__common_8h.html#af904ee65670125fc48c2885317136045", [
+      [ "COMCH_MSG_DIRECTION", "dma__copy__core_8h.html#af904ee65670125fc48c2885317136045aaef89d3ebb38c197bc239c20e6ffdcd6", null ],
+      [ "COMCH_MSG_EXPORT_DESCRIPTOR", "dma__copy__core_8h.html#af904ee65670125fc48c2885317136045a136a7fd35474e622ebae8299d1db6558", null ],
+      [ "COMCH_MSG_STATUS", "dma__copy__core_8h.html#af904ee65670125fc48c2885317136045acf062acda8e55b50053420c528c0ff26", null ],
+      [ "COMCH_MSG_TYPE_BIND_SQ_DB", "doca__transport__common_8h.html#af904ee65670125fc48c2885317136045ab5f09958179eaa5a1d8a2bc0fa9d3a19", null ],
+      [ "COMCH_MSG_TYPE_BIND_SQ_DB_DONE", "doca__transport__common_8h.html#af904ee65670125fc48c2885317136045a0c41c4f5771f362f33852dfd9dbdccdc", null ],
+      [ "COMCH_MSG_TYPE_UNBIND_SQ_DB", "doca__transport__common_8h.html#af904ee65670125fc48c2885317136045a86c114bc579c28d91220457f821788c7", null ],
+      [ "COMCH_MSG_TYPE_UNBIND_SQ_DB_DONE", "doca__transport__common_8h.html#af904ee65670125fc48c2885317136045a50f7de6a8e140c1fb3f4e83415c8ee13", null ],
+      [ "COMCH_MSG_TYPE_RAISE_MSIX", "doca__transport__common_8h.html#af904ee65670125fc48c2885317136045a0470bb37a249c5f62302977359f7d867", null ],
+      [ "COMCH_MSG_TYPE_HOST_DB", "doca__transport__common_8h.html#af904ee65670125fc48c2885317136045a4bd3899a48124cf5fa7280082341bbe1", null ]
+    ] ],
+    [ "__attribute__", "doca__transport__common_8h.html#a5022b059ca8ef5ebe3c052d5ff633dc7", null ],
+    [ "bind_sq_db_data", "doca__transport__common_8h.html#ab14eaac27722832700345858344d9d1d", null ],
+    [ "bind_sq_db_done_data", "doca__transport__common_8h.html#ab389b67f6477de6b167fddccf60064ea", null ],
+    [ "cookie", "doca__transport__common_8h.html#a503ef373b83b95a8115732a2638ebef8", null ],
+    [ "db", "doca__transport__common_8h.html#a1bb0ebf1a7c4c3f3bd365a1cabab12e2", null ],
+    [ "db_user_data", "doca__transport__common_8h.html#a534a4e1591be2472da5d72b953df595f", null ],
+    [ "db_value", "doca__transport__common_8h.html#aba7992012009660d995781c6560d8bfe", null ],
+    [ "dpa_consumer", "doca__transport__common_8h.html#adbe52c8a9899ac86b647236fc0923535", null ],
+    [ "dpa_consumer_comp", "doca__transport__common_8h.html#a6c9d76e9849d73703d7d3646850d05a5", null ],
+    [ "dpa_db_comp", "doca__transport__common_8h.html#a3ddc8b4688e63434f5b20d73e131e167", null ],
+    [ "dpa_msix", "doca__transport__common_8h.html#a76c7ab9cccd29544cad4ffc2d51c3529", null ],
+    [ "dpa_producer", "doca__transport__common_8h.html#a7fa5f8d159d8ba9c88b9411c7a48bd57", null ],
+    [ "dpa_producer_comp", "doca__transport__common_8h.html#a97e6e30767690b5b8f3ca37064ee7e5a", null ],
+    [ "host_db_data", "doca__transport__common_8h.html#a68c9b8cf6f5f44f727cd0a2af05aa4fd", null ],
+    [ "type", "doca__transport__common_8h.html#a989be1c25a35e0bb9d7f787155a0b886", null ],
+    [ "unbind_sq_db_data", "doca__transport__common_8h.html#a58b3ed66a316f64545ecc67f2fb3dbb6", null ],
+    [ "unbind_sq_db_done_data", "doca__transport__common_8h.html#ac24a8923fb9de98282a65769353fe476", null ]
+];

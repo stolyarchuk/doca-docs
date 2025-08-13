@@ -1,0 +1,7 @@
+<map id="include/doca_eth_rxq_cpu_data_path.h" name="include/doca_eth_rxq_cpu_data_path.h">
+<area shape="rect" id="node1" title=" " alt="" coords="367,5,527,47"/>
+<area shape="rect" id="node2" href="$eth__l2__fwd__core_8c.html" title=" " alt="" coords="5,109,177,151"/>
+<area shape="rect" id="node3" href="$eth__rxq__batch__managed__mempool__receive__sample_8c.html" title=" " alt="" coords="201,95,443,165"/>
+<area shape="rect" id="node4" href="$eth__rxq__managed__mempool__receive__sample_8c.html" title=" " alt="" coords="467,95,679,165"/>
+<area shape="rect" id="node5" href="$eth__rxq__regular__receive__sample_8c.html" title=" " alt="" coords="703,95,885,165"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="doca_flow_resource_encap_cfg" name="doca_flow_resource_encap_cfg">
+<area shape="rect" id="node1" title="doca flow encap resource configuration" alt="" coords="1603,258,1753,299"/>
+<area shape="rect" id="node2" href="$structdoca__flow__encap__action.html" title="doca flow encap data information" alt="" coords="1331,265,1511,292"/>
+<area shape="rect" id="node3" href="$structdoca__flow__tun.html" title="doca flow tunnel information" alt="" coords="1091,107,1206,133"/>
+<area shape="rect" id="node4" href="$uniondoca__flow__geneve__option.html" title="doca flow GENEVE option single DW." alt="" coords="701,5,891,32"/>
+<area shape="rect" id="node5" href="$structdoca__flow__header__mpls.html" title="doca flow MPLS header." alt="" coords="707,56,885,83"/>
+<area shape="rect" id="node6" href="$structdoca__flow__header__psp.html" title="doca flow psp header in match data and modify/encap actions" alt="" coords="711,107,881,133"/>
+<area shape="rect" id="node7" href="$structdoca__flow__header__geneve.html" title="doca flow GENEVE header." alt="" coords="699,157,893,184"/>
+<area shape="rect" id="node8" href="$structdoca__flow__header__format.html" title="doca flow packet format" alt="" coords="1053,392,1244,419"/>
+<area shape="rect" id="node9" href="$structdoca__flow__header__eth__vlan.html" title="doca flow vlan header" alt="" coords="695,208,897,235"/>
+<area shape="rect" id="node10" href="$structdoca__flow__header__eth.html" title="doca flow eth header" alt="" coords="713,259,879,285"/>
+<area shape="rect" id="node11" href="$structdoca__flow__header__l4__port.html" title="doca flow tcp or udp port header in match data" alt="" coords="5,361,196,388"/>
+<area shape="rect" id="node12" href="$structdoca__flow__header__tcp.html" title="doca flow tcp header in match data" alt="" coords="504,361,671,388"/>
+<area shape="rect" id="node14" href="$structdoca__flow__header__udp.html" title="doca flow udp header in match data" alt="" coords="301,424,472,451"/>
+<area shape="rect" id="node13" href="$structdoca__flow__header__icmp.html" title="doca flow icmp header in match data" alt="" coords="707,536,885,563"/>
+<area shape="rect" id="node16" href="$structdoca__flow__header__roce__v2.html" title="doca flow ROCEv2 header in match data" alt="" coords="697,485,895,512"/>
+<area shape="rect" id="node15" href="$structdoca__flow__header__ip4.html" title="doca flow ipv4 header in match data" alt="" coords="713,587,879,613"/>
+<area shape="rect" id="node17" href="$structdoca__flow__header__ib__bth.html" title="doca flow BTH header in match data" alt="" coords="293,504,480,531"/>
+<area shape="rect" id="node18" href="$structdoca__flow__header__ip6.html" title="doca flow ipv6 header in match data" alt="" coords="713,637,879,664"/>
+</map>

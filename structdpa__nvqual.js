@@ -1,0 +1,25 @@
+var structdpa__nvqual =
+[
+    [ "affinity", "structdpa__nvqual.html#a03facfe3e418a69b63f5d8e658c4cdd4", null ],
+    [ "available_eus", "structdpa__nvqual.html#a4e267ceadf3e5e1aa88e00e11d35b4dc", null ],
+    [ "available_eus_size", "structdpa__nvqual.html#a930e60ff4d49361848f85c6b85a93595", null ],
+    [ "avg_latency_single_op", "structdpa__nvqual.html#a27c097c94b17b7ed902aad6401400c70", null ],
+    [ "buffers_size", "structdpa__nvqual.html#a600beb00de6b9a5005b4730b5798cebe", null ],
+    [ "data_size", "structdpa__nvqual.html#ad4ed8c7d82221f3d57fa878cc7f8be89", null ],
+    [ "dev", "structdpa__nvqual.html#ab163e48be71713dea637d970e00de5e2", null ],
+    [ "dev_list", "structdpa__nvqual.html#a824ac3f2c7c562f603a17b237bf94a03", null ],
+    [ "dev_notification_completions", "structdpa__nvqual.html#a4bcceccf120e68cb2ce1692d4e16cdeb", null ],
+    [ "dev_se", "structdpa__nvqual.html#ac54af1387064f9431124f48d79ef9885", null ],
+    [ "dev_tlss", "structdpa__nvqual.html#a1f94e53aa8e86a86c5e272a087acbbd8", null ],
+    [ "dpa", "structdpa__nvqual.html#a0b34b59e40fff5e33ed3edfd8093a5eb", null ],
+    [ "flow_cfg", "structdpa__nvqual.html#ac44b0b0da65ea972e3f1ecdc5252512f", null ],
+    [ "notification_completions", "structdpa__nvqual.html#a65193242c774f0fe92dce81cba2612f0", null ],
+    [ "num_ops", "structdpa__nvqual.html#a221b33e766343b65e9c13f24895c91e9", null ],
+    [ "num_threads", "structdpa__nvqual.html#a2cf7059edc6d4c5636ce868142e988e0", null ],
+    [ "se", "structdpa__nvqual.html#a784308747269083f5e09e09331eaf4dc", null ],
+    [ "thread_rets", "structdpa__nvqual.html#a147d3f58b629c3fe39970d8cc5bd81ec", null ],
+    [ "threads", "structdpa__nvqual.html#a032f4a7516c04acb32fb3080914b1cc7", null ],
+    [ "tlss", "structdpa__nvqual.html#ad4ae6869b510c4b5d4ec5cc971bb8dc9", null ],
+    [ "total_dpa_run_time_usec", "structdpa__nvqual.html#af8032ce7e149029910dd8735b7cd4277", null ],
+    [ "total_num_eus", "structdpa__nvqual.html#a399f389741fbf4657123a09cb44582ea", null ]
+];

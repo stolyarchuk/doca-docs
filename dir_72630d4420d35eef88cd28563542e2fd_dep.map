@@ -1,0 +1,31 @@
+<map id="samples/doca_common" name="samples/doca_common">
+<area shape="rect" id="node2" href="dir_a271025ed3c2b46caf30c346b3ae4323.html" title="cache_invalidate" alt="" coords="1847,63,1979,111"/>
+<area shape="rect" id="node15" href="dir_d44c64559bbebec7f509842c48db8b23.html" title="include" alt="" coords="1117,159,1189,207"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000084_000045.html" title="11" alt="" coords="1199,182,1216,196"/>
+<area shape="rect" id="node3" href="dir_8314e337fdedea2e1ff65932a284d313.html" title="graph" alt="" coords="1751,63,1823,111"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000085_000045.html" title="11" alt="" coords="1199,182,1217,197"/>
+<area shape="rect" id="node4" href="dir_d511f486c16c947201412b2535d027fa.html" title="pe_async_stop" alt="" coords="1607,63,1726,111"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000086_000045.html" title="10" alt="" coords="1200,179,1217,194"/>
+<area shape="rect" id="node5" href="dir_a4d9883b90f1280a191d763ea1fa1681.html" title="pe_event" alt="" coords="1500,63,1583,111"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000087_000045.html" title="10" alt="" coords="1199,183,1217,198"/>
+<area shape="rect" id="node6" href="dir_81bb444af78447c961074ab34182f612.html" title="pe_multi_context" alt="" coords="1341,63,1475,111"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000088_000045.html" title="10" alt="" coords="1200,171,1218,185"/>
+<area shape="rect" id="node7" href="dir_9f729d0ecbe21b5ff0ee7aae75fb1242.html" title="pe_polling" alt="" coords="1227,63,1317,111"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000089_000045.html" title="10" alt="" coords="1193,147,1210,161"/>
+<area shape="rect" id="node8" href="dir_60b10ab9bc94b6d9ef48a68c3088e452.html" title="pe_reactive" alt="" coords="1104,63,1203,111"/>
+<area shape="rect" id="edge12-headlabel" href="dir_000090_000045.html" title="10" alt="" coords="1153,133,1170,148"/>
+<area shape="rect" id="node9" href="dir_fef266660ef7586a375d2351b55a2ebb.html" title="pe_single_task_comp_cb" alt="" coords="896,63,1080,111"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000091_000045.html" title="10" alt="" coords="1097,137,1114,152"/>
+<area shape="rect" id="node10" href="dir_5bddc3003528a3457def8afdbb2967f4.html" title="pe_task_error" alt="" coords="761,63,871,111"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000092_000045.html" title="10" alt="" coords="1091,162,1109,177"/>
+<area shape="rect" id="node11" href="dir_224cd68d12af9f154c063b4e149b20de.html" title="pe_task_resubmit" alt="" coords="597,63,736,111"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000093_000045.html" title="10" alt="" coords="1091,165,1108,180"/>
+<area shape="rect" id="node12" href="dir_0950f5c171b96e638ef60dd3c04be9dc.html" title="pe_task_try_submit" alt="" coords="422,63,573,111"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000094_000045.html" title="10" alt="" coords="1091,163,1108,178"/>
+<area shape="rect" id="node13" href="dir_36e707fb896ee6fa5345c6d38516ca4b.html" title="sync_event_local_pci" alt="" coords="237,63,397,111"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000095_000045.html" title="5" alt="" coords="1095,165,1104,179"/>
+<area shape="rect" id="node14" href="dir_76d1543dce5c57a0c5fe569589873e3e.html" title="sync_event_remote_pci" alt="" coords="37,63,213,111"/>
+<area shape="rect" id="edge13-headlabel" href="dir_000096_000045.html" title="5" alt="" coords="1095,165,1104,180"/>
+<area shape="rect" id="clust2" href="dir_72630d4420d35eef88cd28563542e2fd.html" alt="" coords="27,52,2132,121"/>
+<area shape="rect" id="clust1" href="dir_6f9635d4fbfa321d4c00f29df5cd540c.html" title="samples" alt="" coords="16,16,2143,132"/>
+</map>

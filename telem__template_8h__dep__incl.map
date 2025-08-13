@@ -1,0 +1,5 @@
+<map id="applications/pcc/device/rp/switch_telemetry/algo/telem_template.h" name="applications/pcc/device/rp/switch_telemetry/algo/telem_template.h">
+<area shape="rect" id="node1" title=" " alt="" coords="120,5,308,61"/>
+<area shape="rect" id="node2" href="$telem__template_8c.html" title=" " alt="" coords="5,109,193,165"/>
+<area shape="rect" id="node3" href="$rp__switch__telemetry__dev__main_8c.html" title=" " alt="" coords="218,109,442,165"/>
+</map>

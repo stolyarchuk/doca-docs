@@ -1,0 +1,10 @@
+<map id="include/doca_pcc_dev_data_structures.h" name="include/doca_pcc_dev_data_structures.h">
+<area shape="rect" id="node1" title=" " alt="" coords="311,5,475,47"/>
+<area shape="rect" id="node2" href="$doca__pcc__dev_8h.html" title=" " alt="" coords="305,95,480,121"/>
+<area shape="rect" id="node3" href="$rtt__template_8c.html" title=" " alt="" coords="5,259,180,315"/>
+<area shape="rect" id="node4" href="$rp__rtt__template__dev__main_8c.html" title=" " alt="" coords="204,259,379,315"/>
+<area shape="rect" id="node5" href="$telem__template_8c.html" title=" " alt="" coords="403,259,591,315"/>
+<area shape="rect" id="node6" href="$rp__switch__telemetry__dev__main_8c.html" title=" " alt="" coords="615,259,839,315"/>
+<area shape="rect" id="node7" href="$doca__pcc__dev__algo__access_8h.html" title=" " alt="" coords="217,169,381,211"/>
+<area shape="rect" id="node8" href="$doca__pcc__dev__event_8h.html" title=" " alt="" coords="405,169,569,211"/>
+</map>

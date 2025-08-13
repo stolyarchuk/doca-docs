@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['rbuf_5fdesc_11258',['rbuf_desc',['../structrbuf__desc.html',1,'']]],
+  ['rdma_5fconfig_11259',['rdma_config',['../structrdma__config.html',1,'']]],
+  ['rdma_5fconn_5fpair_11260',['rdma_conn_pair',['../structstorage_1_1rdma__conn__pair.html',1,'storage']]],
+  ['rdma_5fconnection_5fdetails_5fpayload_11261',['rdma_connection_details_payload',['../structstorage_1_1control_1_1rdma__connection__details__payload.html',1,'storage::control']]],
+  ['rdma_5fmmap_5fobj_11262',['rdma_mmap_obj',['../structrdma__mmap__obj.html',1,'']]],
+  ['rdma_5fresources_11263',['rdma_resources',['../structrdma__resources.html',1,'']]],
+  ['rdmo_5fcfg_11264',['rdmo_cfg',['../structrdmo__cfg.html',1,'']]],
+  ['rdmo_5fresult_11265',['rdmo_result',['../structrdmo__result.html',1,'']]],
+  ['recover_5ftask_5fdata_11266',['recover_task_data',['../structrecover__task__data.html',1,'']]],
+  ['recv_5fresult_11267',['recv_result',['../structrecv__result.html',1,'']]],
+  ['rmax_5fprogram_5fstate_11268',['rmax_program_state',['../structrmax__program__state.html',1,'']]],
+  ['rmax_5fstream_5fconfig_11269',['rmax_stream_config',['../structrmax__stream__config.html',1,'']]],
+  ['rq_5fcreate_5fresult_11270',['rq_create_result',['../structrq__create__result.html',1,'']]],
+  ['rq_5fdestroy_5fresult_11271',['rq_destroy_result',['../structrq__destroy__result.html',1,'']]],
+  ['rtt_5ftemplate_5fflags_5ft_11272',['rtt_template_flags_t',['../structrtt__template__flags__t.html',1,'']]],
+  ['runtime_5ferror_11273',['runtime_error',['../classstorage_1_1runtime__error.html',1,'storage']]],
+  ['rxq_5ficmp_5fqueues_11274',['rxq_icmp_queues',['../structrxq__icmp__queues.html',1,'']]],
+  ['rxq_5fqueue_11275',['rxq_queue',['../structrxq__queue.html',1,'']]],
+  ['rxq_5ftcp_5fqueues_11276',['rxq_tcp_queues',['../structrxq__tcp__queues.html',1,'']]],
+  ['rxq_5fudp_5fqueues_11277',['rxq_udp_queues',['../structrxq__udp__queues.html',1,'']]]
+];

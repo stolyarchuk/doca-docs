@@ -1,0 +1,20 @@
+<map id="include/doca_telemetry_pcc.h" name="include/doca_telemetry_pcc.h">
+<area shape="rect" id="node1" title=" " alt="" coords="524,5,699,47"/>
+<area shape="rect" id="node2" href="$doca__error_8h.html" title=" " alt="" coords="496,95,599,121"/>
+<area shape="rect" id="node18" href="$doca__types_8h.html" title=" " alt="" coords="623,95,731,121"/>
+<area shape="rect" id="node3" href="$doca__compat_8h.html" title=" " alt="" coords="311,169,432,196"/>
+<area shape="rect" id="node17" href="$doca__common__defines_8h.html" title=" " alt="" coords="456,169,639,196"/>
+<area shape="rect" id="node4" href="$doca__config_8h.html" title=" " alt="" coords="25,244,136,271"/>
+<area shape="rect" id="node6" title=" " alt="" coords="160,244,231,271"/>
+<area shape="rect" id="node7" href="$stdint_8h.html" title=" " alt="" coords="625,244,696,271"/>
+<area shape="rect" id="node8" title=" " alt="" coords="255,244,325,271"/>
+<area shape="rect" id="node9" title=" " alt="" coords="350,244,425,271"/>
+<area shape="rect" id="node10" href="$doca__version_8h.html" title=" " alt="" coords="449,244,569,271"/>
+<area shape="rect" id="node5" href="$doca__build__config_8h.html" title=" " alt="" coords="5,319,156,345"/>
+<area shape="rect" id="node11" href="$stddef_8h.html" title=" " alt="" coords="471,319,546,345"/>
+<area shape="rect" id="node12" href="$____stddef__ptrdiff__t_8h.html" title=" " alt="" coords="105,393,251,420"/>
+<area shape="rect" id="node13" href="$____stddef__size__t_8h.html" title=" " alt="" coords="276,393,411,420"/>
+<area shape="rect" id="node14" href="$____stddef__wchar__t_8h.html" title=" " alt="" coords="435,393,582,420"/>
+<area shape="rect" id="node15" href="$____stddef__null_8h.html" title=" " alt="" coords="606,393,726,420"/>
+<area shape="rect" id="node16" href="$____stddef__offsetof_8h.html" title=" " alt="" coords="751,393,896,420"/>
+</map>

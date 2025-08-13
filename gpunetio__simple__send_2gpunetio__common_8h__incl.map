@@ -1,0 +1,32 @@
+<map id="samples/doca_gpunetio/gpunetio_simple_send/gpunetio_common.h" name="samples/doca_gpunetio/gpunetio_simple_send/gpunetio_common.h">
+<area shape="rect" id="node1" title=" " alt="" coords="759,5,935,61"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,117,72,143"/>
+<area shape="rect" id="node3" title=" " alt="" coords="96,117,171,143"/>
+<area shape="rect" id="node4" title=" " alt="" coords="317,348,387,375"/>
+<area shape="rect" id="node5" title=" " alt="" coords="918,348,989,375"/>
+<area shape="rect" id="node6" title=" " alt="" coords="1109,117,1182,143"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1206,117,1271,143"/>
+<area shape="rect" id="node8" title=" " alt="" coords="1296,117,1419,143"/>
+<area shape="rect" id="node9" href="$doca__error_8h.html" title=" " alt="" coords="471,199,574,225"/>
+<area shape="rect" id="node23" href="$doca__dev_8h.html" title=" " alt="" coords="799,117,894,143"/>
+<area shape="rect" id="node25" href="$doca__mmap_8h.html" title=" " alt="" coords="919,117,1033,143"/>
+<area shape="rect" id="node26" title=" " alt="" coords="1443,117,1573,143"/>
+<area shape="rect" id="node27" href="$doca__eth__txq_8h.html" title=" " alt="" coords="654,117,775,143"/>
+<area shape="rect" id="node28" href="$doca__eth__txq__gpu__data__path_8h.html" title=" " alt="" coords="403,109,579,151"/>
+<area shape="rect" id="node29" href="$doca__buf__array_8h.html" title=" " alt="" coords="246,117,378,143"/>
+<area shape="rect" id="node30" title=" " alt="" coords="1597,117,1688,143"/>
+<area shape="rect" id="node10" href="$doca__compat_8h.html" title=" " alt="" coords="554,273,675,300"/>
+<area shape="rect" id="node22" href="$doca__common__defines_8h.html" title=" " alt="" coords="347,273,530,300"/>
+<area shape="rect" id="node11" href="$doca__config_8h.html" title=" " alt="" coords="666,348,777,375"/>
+<area shape="rect" id="node13" href="$stdint_8h.html" title=" " alt="" coords="801,348,871,375"/>
+<area shape="rect" id="node14" title=" " alt="" coords="567,348,641,375"/>
+<area shape="rect" id="node15" href="$doca__version_8h.html" title=" " alt="" coords="423,348,543,375"/>
+<area shape="rect" id="node12" href="$doca__build__config_8h.html" title=" " alt="" coords="646,423,797,449"/>
+<area shape="rect" id="node16" href="$stddef_8h.html" title=" " alt="" coords="445,423,520,449"/>
+<area shape="rect" id="node17" href="$____stddef__ptrdiff__t_8h.html" title=" " alt="" coords="79,497,225,524"/>
+<area shape="rect" id="node18" href="$____stddef__size__t_8h.html" title=" " alt="" coords="250,497,385,524"/>
+<area shape="rect" id="node19" href="$____stddef__wchar__t_8h.html" title=" " alt="" coords="409,497,556,524"/>
+<area shape="rect" id="node20" href="$____stddef__null_8h.html" title=" " alt="" coords="580,497,700,524"/>
+<area shape="rect" id="node21" href="$____stddef__offsetof_8h.html" title=" " alt="" coords="725,497,870,524"/>
+<area shape="rect" id="node24" href="$doca__types_8h.html" title=" " alt="" coords="701,199,809,225"/>
+</map>

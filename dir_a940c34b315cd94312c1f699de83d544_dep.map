@@ -1,0 +1,12 @@
+<map id="samples/doca_gpunetio/gpunetio_dma_memcpy" name="samples/doca_gpunetio/gpunetio_dma_memcpy">
+<area shape="rect" id="node3" href="dir_02481c78e9b917285a4b7227e8bc70da.html" title="include" alt="" coords="165,159,237,207"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000219_000047.html" title="13" alt="" coords="170,132,187,146"/>
+<area shape="rect" id="node4" href="dir_c4eb813eeef3fabf556c400e0344aa28.html" title="lib" alt="" coords="165,255,237,303"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000219_000048.html" title="2" alt="" coords="174,227,183,242"/>
+<area shape="rect" id="node2" href="dir_61a7959970ebb4e1833c75b814e3c771.html" title="host" alt="" coords="240,63,312,111"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000220_000047.html" title="5" alt="" coords="233,142,242,157"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000220_000048.html" title="1" alt="" coords="233,237,242,252"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000047_000048.html" title="91" alt="" coords="201,229,218,244"/>
+<area shape="rect" id="clust2" href="dir_a940c34b315cd94312c1f699de83d544.html" alt="" coords="27,52,323,121"/>
+<area shape="rect" id="clust1" href="dir_d9f507691701c094e04922c75d8ab3c5.html" title="doca_gpunetio" alt="" coords="16,16,333,132"/>
+</map>

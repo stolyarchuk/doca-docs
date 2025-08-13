@@ -1,0 +1,19 @@
+<map id="samples/doca_devemu/devemu_pci_device_msix/dpu/device/devemu_pci_device_msix_dpu_kernels_dev.c" name="samples/doca_devemu/devemu_pci_device_msix/dpu/device/devemu_pci_device_msix_dpu_kernels_dev.c">
+<area shape="rect" id="node1" title=" " alt="" coords="171,5,408,76"/>
+<area shape="rect" id="node2" href="$doca__dpa__dev_8h.html" title=" " alt="" coords="226,213,353,240"/>
+<area shape="rect" id="node17" href="$doca__dpa__dev__devemu__pci_8h.html" title=" " alt="" coords="265,124,439,165"/>
+<area shape="rect" id="node3" href="$stdint_8h.html" title=" " alt="" coords="254,363,325,389"/>
+<area shape="rect" id="node4" href="$stddef_8h.html" title=" " alt="" coords="372,437,447,464"/>
+<area shape="rect" id="node10" href="$doca__compat_8h.html" title=" " alt="" coords="481,288,602,315"/>
+<area shape="rect" id="node5" href="$____stddef__ptrdiff__t_8h.html" title=" " alt="" coords="5,512,152,539"/>
+<area shape="rect" id="node6" href="$____stddef__size__t_8h.html" title=" " alt="" coords="177,512,311,539"/>
+<area shape="rect" id="node7" href="$____stddef__wchar__t_8h.html" title=" " alt="" coords="336,512,483,539"/>
+<area shape="rect" id="node8" href="$____stddef__null_8h.html" title=" " alt="" coords="507,512,627,539"/>
+<area shape="rect" id="node9" href="$____stddef__offsetof_8h.html" title=" " alt="" coords="651,512,797,539"/>
+<area shape="rect" id="node11" href="$doca__config_8h.html" title=" " alt="" coords="687,363,798,389"/>
+<area shape="rect" id="node13" title=" " alt="" coords="822,363,893,389"/>
+<area shape="rect" id="node14" title=" " alt="" coords="349,363,419,389"/>
+<area shape="rect" id="node15" title=" " alt="" coords="444,363,519,389"/>
+<area shape="rect" id="node16" href="$doca__version_8h.html" title=" " alt="" coords="543,363,663,389"/>
+<area shape="rect" id="node12" href="$doca__build__config_8h.html" title=" " alt="" coords="667,437,818,464"/>
+</map>

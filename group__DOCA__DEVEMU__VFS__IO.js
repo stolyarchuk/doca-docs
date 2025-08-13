@@ -1,0 +1,26 @@
+var group__DOCA__DEVEMU__VFS__IO =
+[
+    [ "doca_devemu_vfs_io_event_vfs_notification_req_notice_handler_cb_t", "group__DOCA__DEVEMU__VFS__IO.html#gaed0e48aed26f02b1676c824007b02185", null ],
+    [ "doca_devemu_vfs_io_event_vfs_req_notice_handler_cb_t", "group__DOCA__DEVEMU__VFS__IO.html#ga3867f0bf5e545214a8b903fa479a1beb", null ],
+    [ "doca_devemu_vfs_io_as_ctx", "group__DOCA__DEVEMU__VFS__IO.html#ga4a3cf7b53f34ec30021f3d73f2fe9ad2", null ],
+    [ "doca_devemu_vfs_io_as_virtio_io", "group__DOCA__DEVEMU__VFS__IO.html#ga4adfe9162d9a56bf423575c0f09f95fc", null ],
+    [ "doca_devemu_vfs_io_create", "group__DOCA__DEVEMU__VFS__IO.html#ga7bf4bfaaa9e9a09b0d30e324a95d9820", null ],
+    [ "doca_devemu_vfs_io_destroy", "group__DOCA__DEVEMU__VFS__IO.html#ga5dd07288bbc8bab2b35b1c9ffe50d2f2", null ],
+    [ "doca_devemu_vfs_io_event_vfs_notification_req_notice_register", "group__DOCA__DEVEMU__VFS__IO.html#gae9d734bb43d9cf71cc40328012ef278c", null ],
+    [ "doca_devemu_vfs_io_event_vfs_req_notice_register", "group__DOCA__DEVEMU__VFS__IO.html#ga50ce543781a6969d126f52b6f5a32ee4", null ],
+    [ "doca_devemu_vfs_notification_req_complete", "group__DOCA__DEVEMU__VFS__IO.html#ga3ee6ee4bca312256411c0e3b16c07b0f", null ],
+    [ "doca_devemu_vfs_notification_req_get_dataout", "group__DOCA__DEVEMU__VFS__IO.html#gaca1d6925559e6e089a8d2ff0a42b7880", null ],
+    [ "doca_devemu_vfs_notification_req_get_dataout_data_len", "group__DOCA__DEVEMU__VFS__IO.html#ga62825250147ae6b19c63ebe75f7a7cd8", null ],
+    [ "doca_devemu_vfs_notification_req_get_dataout_list_len", "group__DOCA__DEVEMU__VFS__IO.html#gae9decc1fa3f64b9bcf6ff31f46bd723f", null ],
+    [ "doca_devemu_vfs_notification_req_get_id", "group__DOCA__DEVEMU__VFS__IO.html#gaa3209b2ca2a2353ddd38a8d82dd286e9", null ],
+    [ "doca_devemu_vfs_notification_req_get_src_domain_id", "group__DOCA__DEVEMU__VFS__IO.html#gaad83dc5fb81539924d1f03e18c9894f6", null ],
+    [ "doca_devemu_vfs_req_complete", "group__DOCA__DEVEMU__VFS__IO.html#ga0d276ee9135874a23b05cf96f344e05c", null ],
+    [ "doca_devemu_vfs_req_get_datain", "group__DOCA__DEVEMU__VFS__IO.html#ga328192353425e3da616e7ea4e59cf0f6", null ],
+    [ "doca_devemu_vfs_req_get_datain_data_len", "group__DOCA__DEVEMU__VFS__IO.html#gae6af9410ff7c56febf33636726e132e5", null ],
+    [ "doca_devemu_vfs_req_get_datain_list_len", "group__DOCA__DEVEMU__VFS__IO.html#ga0fb291bb402394df611d559ba886b5a8", null ],
+    [ "doca_devemu_vfs_req_get_dataout", "group__DOCA__DEVEMU__VFS__IO.html#ga991243f1d77bc255dfdacd760185c9ae", null ],
+    [ "doca_devemu_vfs_req_get_dataout_data_len", "group__DOCA__DEVEMU__VFS__IO.html#ga3ebef638e3f21e5c402d904d253efd66", null ],
+    [ "doca_devemu_vfs_req_get_dataout_list_len", "group__DOCA__DEVEMU__VFS__IO.html#ga1575b7c002500d8e888c8b235d2a7418", null ],
+    [ "doca_devemu_vfs_req_get_id", "group__DOCA__DEVEMU__VFS__IO.html#ga9a5c1d91198c3e6bfbb0469489d44a97", null ],
+    [ "doca_devemu_vfs_req_get_src_domain_id", "group__DOCA__DEVEMU__VFS__IO.html#ga0fb2858566adfdb761069c0025e812c1", null ]
+];

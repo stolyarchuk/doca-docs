@@ -1,0 +1,9 @@
+<map id="samples/doca_urom/plugins" name="samples/doca_urom/plugins">
+<area shape="rect" id="node2" href="dir_4f74fbcf71e1613a376540808898aa95.html" title="worker_graph" alt="" coords="190,63,301,111"/>
+<area shape="rect" id="node4" href="dir_d44c64559bbebec7f509842c48db8b23.html" title="include" alt="" coords="137,159,209,207"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000246_000045.html" title="4" alt="" coords="204,142,213,157"/>
+<area shape="rect" id="node3" href="dir_181e3d21ccc3121aa5f1c3b8b39e4850.html" title="worker_sandbox" alt="" coords="37,63,165,111"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000247_000045.html" title="10" alt="" coords="143,132,160,146"/>
+<area shape="rect" id="clust2" href="dir_53b3247755719e56b95e14011637f42a.html" alt="" coords="27,52,408,121"/>
+<area shape="rect" id="clust1" href="dir_eaf9711f3e25407ccf4904788bbe9fc5.html" title="doca_urom" alt="" coords="16,16,419,132"/>
+</map>

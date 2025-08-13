@@ -1,0 +1,6 @@
+<map id="eth_ip_icmp_hdr" name="eth_ip_icmp_hdr">
+<area shape="rect" id="node1" title=" " alt="" coords="85,95,215,121"/>
+<area shape="rect" id="node2" href="$structipv4__hdr.html" title=" " alt="" coords="5,5,84,32"/>
+<area shape="rect" id="node3" href="$structether__hdr.html" title=" " alt="" coords="108,5,192,32"/>
+<area shape="rect" id="node4" href="$structicmp__hdr.html" title=" " alt="" coords="217,5,299,32"/>
+</map>

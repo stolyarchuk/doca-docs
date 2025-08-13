@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['random_5ftotal_5frange_21358',['RANDOM_TOTAL_RANGE',['../flow__sampling__sample_8c.html#a2243dbb43991f96f0bdde95ecbeccb9f',1,'flow_sampling_sample.c']]],
+  ['random_5fwidth_21359',['RANDOM_WIDTH',['../flow__random__sample_8c.html#ae33259eb892bced9f2d8e635c8809e1a',1,'RANDOM_WIDTH():&#160;flow_random_sample.c'],['../flow__sampling__sample_8c.html#ae33259eb892bced9f2d8e635c8809e1a',1,'RANDOM_WIDTH():&#160;flow_sampling_sample.c']]],
+  ['rate_21360',['RATE',['../eth__rxq__batch__managed__mempool__receive__sample_8c.html#a8c9c014cf8fc2f648da41a5ba15893bc',1,'RATE():&#160;eth_rxq_batch_managed_mempool_receive_sample.c'],['../eth__rxq__managed__mempool__receive__sample_8c.html#a8c9c014cf8fc2f648da41a5ba15893bc',1,'RATE():&#160;eth_rxq_managed_mempool_receive_sample.c']]],
+  ['rate_5fmax_21361',['RATE_MAX',['../rtt__template__algo__params_8h.html#ab86d4993e2e4313522d98699d392b0f2',1,'RATE_MAX():&#160;rtt_template_algo_params.h'],['../telem__template__algo__params_8h.html#ab86d4993e2e4313522d98699d392b0f2',1,'RATE_MAX():&#160;telem_template_algo_params.h']]],
+  ['rdma_5fdefault_5fbuf_5flist_5flen_21362',['RDMA_DEFAULT_BUF_LIST_LEN',['../dpa__common_8h.html#a5bb9e9be7a9bec2b0cc6c28c88978bf3',1,'dpa_common.h']]],
+  ['rdma_5fdevice_5fdefault_5fgid_5findex_21363',['RDMA_DEVICE_DEFAULT_GID_INDEX',['../dpa__common_8h.html#a5a36952a7cb8f594388898d4620d4e2e',1,'dpa_common.h']]],
+  ['rdma_5frecv_5fqueue_5fsize_21364',['RDMA_RECV_QUEUE_SIZE',['../doca__gpunetio_2rdma__common_8h.html#a40cf1a5cca221b976999837bc634bf4f',1,'rdma_common.h']]],
+  ['rdma_5fsend_5fqueue_5fsize_21365',['RDMA_SEND_QUEUE_SIZE',['../doca__gpunetio_2rdma__common_8h.html#af281e7a353f443587e845c4d7992174a',1,'rdma_common.h']]],
+  ['rdnc_5fblock_5ffile_5fname_21366',['RDNC_BLOCK_FILE_NAME',['../erasure__coding__recover__sample_8c.html#a9a786010719a8b017ce65c30e987ebf5',1,'erasure_coding_recover_sample.c']]],
+  ['recovered_5ffile_5fname_21367',['RECOVERED_FILE_NAME',['../erasure__coding__recover__sample_8c.html#ab49af06ab2e84ed8cd8f6f479f1cbfef',1,'erasure_coding_recover_sample.c']]],
+  ['recv_5fbuf_5fsize_21368',['RECV_BUF_SIZE',['../dma__copy__dpu__sample_8c.html#ae54f3392c5fb7dec3240a5383e531684',1,'dma_copy_dpu_sample.c']]],
+  ['recv_5fmax_5flen_21369',['RECV_MAX_LEN',['../urom__ping__pong__sample_8c.html#a17b220010ea3df331ce6fcd835c68ac2',1,'urom_ping_pong_sample.c']]],
+  ['recv_5ftask_5fuser_5fdata_21370',['RECV_TASK_USER_DATA',['../eth__rxq__regular__receive__sample_8c.html#a5ac29694a849f63e1c42c33444abb726',1,'eth_rxq_regular_receive_sample.c']]],
+  ['regular_5fpkt_5fsize_21371',['REGULAR_PKT_SIZE',['../eth__txq__batch__send__ethernet__frames__sample_8c.html#a101bb29eea2b9599ffc14b7f4a536757',1,'REGULAR_PKT_SIZE():&#160;eth_txq_batch_send_ethernet_frames_sample.c'],['../eth__txq__send__ethernet__frames__sample_8c.html#a101bb29eea2b9599ffc14b7f4a536757',1,'REGULAR_PKT_SIZE():&#160;eth_txq_send_ethernet_frames_sample.c']]],
+  ['required_5fentry_5fsize_21372',['REQUIRED_ENTRY_SIZE',['../graph__sample_8c.html#ae03b55cf97b5f724371e2c8f2be686ac',1,'graph_sample.c']]],
+  ['root_5fenable_5fstr_5flen_21373',['ROOT_ENABLE_STR_LEN',['../flow__parser_8c.html#a065291e118cb1ddb2f9db9e45116e69c',1,'flow_parser.c']]],
+  ['round_5fup_21374',['ROUND_UP',['../doca__gpunetio_2rdma__common_8h.html#a108ee4e1764d4081b6fd229e7c5e8305',1,'rdma_common.h']]],
+  ['rpc_5freturn_5fstatus_5ferror_21375',['RPC_RETURN_STATUS_ERROR',['../doca__transport__common_8h.html#a274f43019aebe0302057ec24ec97268c',1,'doca_transport_common.h']]],
+  ['rpc_5freturn_5fstatus_5fsuccess_21376',['RPC_RETURN_STATUS_SUCCESS',['../doca__transport__common_8h.html#ad748dc78517cfaa21c37d1da31df1b93',1,'doca_transport_common.h']]],
+  ['rss_5fkey_5flen_21377',['RSS_KEY_LEN',['../dpdk__utils_8c.html#aafa3b02c262e348b27d257b6b01aae11',1,'dpdk_utils.c']]],
+  ['rx_5fring_5fsize_21378',['RX_RING_SIZE',['../dpdk__utils_8h.html#afcfb8ac36c733187de151348eb50ef01',1,'dpdk_utils.h']]]
+];

@@ -1,0 +1,26 @@
+var eth__txq__batch__send__ethernet__frames__sample_8c =
+[
+    [ "eth_txq_batch_send_sample_objects", "structeth__txq__batch__send__sample__objects.html", "structeth__txq__batch__send__sample__objects" ],
+    [ "BUFS_NUM", "eth__txq__batch__send__ethernet__frames__sample_8c.html#ae90f5492b269542bd02bb1997c9e9768", null ],
+    [ "ETHER_TYPE_IPV4", "eth__txq__batch__send__ethernet__frames__sample_8c.html#aae26f94ea402cde60867762631828b2e", null ],
+    [ "MAX_BURST_SIZE", "eth__txq__batch__send__ethernet__frames__sample_8c.html#ac10f30357dfa2a8efd9133eeb441248f", null ],
+    [ "MAX_LIST_LENGTH", "eth__txq__batch__send__ethernet__frames__sample_8c.html#a344d24874ca87e297af5195ee26764e2", null ],
+    [ "REGULAR_PKT_SIZE", "eth__txq__batch__send__ethernet__frames__sample_8c.html#a101bb29eea2b9599ffc14b7f4a536757", null ],
+    [ "SEND_TASK_BATCH_USER_DATA", "eth__txq__batch__send__ethernet__frames__sample_8c.html#a310fbf88ab79cc60d21438c78aad14a8", null ],
+    [ "SLEEP_IN_NANOS", "eth__txq__batch__send__ethernet__frames__sample_8c.html#aefc0fec5d5724fe5f8ca0559f3db79f1", null ],
+    [ "TASK_BATCHES_NUM", "eth__txq__batch__send__ethernet__frames__sample_8c.html#aed188b8fc995ad339ac619a315f21ac1", null ],
+    [ "TASKS_IN_TASK_BATCH", "eth__txq__batch__send__ethernet__frames__sample_8c.html#a76de78a1370ad66af79f8b850c0a4260", null ],
+    [ "check_device", "eth__txq__batch__send__ethernet__frames__sample_8c.html#af34d9ffee6171eb2c5bebc21d59ec926", null ],
+    [ "create_eth_txq_ctx", "eth__txq__batch__send__ethernet__frames__sample_8c.html#a1ce841d922d2b01073f417ff8b9addf9", null ],
+    [ "create_eth_txq_packet_buffers", "eth__txq__batch__send__ethernet__frames__sample_8c.html#ab488a80b4d2a1b78a77d59155a4aa5d4", null ],
+    [ "create_eth_txq_task_batch", "eth__txq__batch__send__ethernet__frames__sample_8c.html#a1af9e5662dfa50afae32dabafde3647b", null ],
+    [ "destroy_eth_txq_ctx", "eth__txq__batch__send__ethernet__frames__sample_8c.html#ae507bcf599caca420049ba19bad5e275", null ],
+    [ "destroy_eth_txq_packet_buffers", "eth__txq__batch__send__ethernet__frames__sample_8c.html#a9696ade58a247fe311fc27d715b85b23", null ],
+    [ "destroy_eth_txq_task_batch", "eth__txq__batch__send__ethernet__frames__sample_8c.html#a550f87c261f5eef51484bec59ca13ef8", null ],
+    [ "DOCA_LOG_REGISTER", "eth__txq__batch__send__ethernet__frames__sample_8c.html#a6f256e2816f07e6b86a18b6190def130", null ],
+    [ "eth_txq_batch_send_ethernet_frames", "eth__txq__batch__send__ethernet__frames__sample_8c.html#aadb7403337d0922d6c11bdc6626a49cf", null ],
+    [ "eth_txq_cleanup", "eth__txq__batch__send__ethernet__frames__sample_8c.html#a2fca30e02346cf9203e2c8040ded99d6", null ],
+    [ "retrieve_eth_txq_task_batch", "eth__txq__batch__send__ethernet__frames__sample_8c.html#aa0748bd11dfcf88417864f223713d3e3", null ],
+    [ "submit_eth_txq_task_batch", "eth__txq__batch__send__ethernet__frames__sample_8c.html#ab7d05f6889a82c6501553f0ecf658242", null ],
+    [ "task_batch_send_common_cb", "eth__txq__batch__send__ethernet__frames__sample_8c.html#a7e84216a8c8fe30d21cdfa89a877f06f", null ]
+];

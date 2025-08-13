@@ -1,0 +1,27 @@
+var modules =
+[
+    [ "DOCA AES-GCM Engine", "group__DOCA__AES__GCM.html", "group__DOCA__AES__GCM" ],
+    [ "DOCA App Shield", "group__DOCA__APSH.html", "group__DOCA__APSH" ],
+    [ "DOCA Arg Parser", "group__DOCA__ARGP.html", "group__DOCA__ARGP" ],
+    [ "DOCA Core", "group__DOCACore.html", "group__DOCACore" ],
+    [ "DOCA Comch", "group__DOCA__COMCH.html", "group__DOCA__COMCH" ],
+    [ "DOCA Compatibility Management", "group__DOCA__COMPAT.html", "group__DOCA__COMPAT" ],
+    [ "DOCA Compress Engine", "group__DOCA__COMPRESS.html", "group__DOCA__COMPRESS" ],
+    [ "DOCA Environment Configurations", "group__DOCA__CONFIG.html", "group__DOCA__CONFIG" ],
+    [ "DOCA Device Emulation", "group__DOCA__DEVEMU.html", "group__DOCA__DEVEMU" ],
+    [ "DOCA DMA Engine", "group__DOCA__DMA.html", "group__DOCA__DMA" ],
+    [ "DOCA DPA", "group__DOCA__DPA.html", "group__DOCA__DPA" ],
+    [ "DOCA Erasure Coding Engine", "group__DOCA__ERASURE__CODING.html", "group__DOCA__ERASURE__CODING" ],
+    [ "DOCA ETH", "group__DOCA__ETH.html", "group__DOCA__ETH" ],
+    [ "DOCA Flow", "group__DOCA__FLOW.html", "group__DOCA__FLOW" ],
+    [ "DOCA Logging Management", "group__DOCA__LOG.html", "group__DOCA__LOG" ],
+    [ "DOCA PCC", "group__DOCA__PCC.html", "group__DOCA__PCC" ],
+    [ "DOCA RDMA", "group__DOCA__RDMA.html", "group__DOCA__RDMA" ],
+    [ "DOCA SHA Engine", "group__DOCA__SHA.html", "group__DOCA__SHA" ],
+    [ "DOCA Telemetry Diagnostics", "group__DOCA__TELEMETRY__DIAG.html", "group__DOCA__TELEMETRY__DIAG" ],
+    [ "DOCA telemetry DPA", "group__DOCA__TELEMETRY__DPA.html", "group__DOCA__TELEMETRY__DPA" ],
+    [ "DOCA Telemetry Exporter", "group__DOCA__TELEMETRY__EXPORTER.html", "group__DOCA__TELEMETRY__EXPORTER" ],
+    [ "DOCA Telemetry PCC", "group__DOCA__TELEMETRY__PCC.html", "group__DOCA__TELEMETRY__PCC" ],
+    [ "DOCA UROM (Unified Resource and Offload Manager)", "group__DOCA__UROM.html", "group__DOCA__UROM" ],
+    [ "DOCA Version Management", "group__DOCA__VERSION.html", "group__DOCA__VERSION" ]
+];
