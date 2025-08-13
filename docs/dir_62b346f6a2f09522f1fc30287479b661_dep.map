@@ -1,9 +1,0 @@
-<map id="samples/doca_flow/flow_ct_tcp_actions" name="samples/doca_flow/flow_ct_tcp_actions">
-<area shape="rect" id="node1" href="dir_62b346f6a2f09522f1fc30287479b661.html" title="flow_ct_tcp_actions" alt="" coords="27,52,176,100"/>
-<area shape="rect" id="node2" href="dir_a6e4fee11f07c3b70486e88fe92cbbdc.html" title="applications" alt="" coords="7,148,108,196"/>
-<area shape="rect" id="edge2-headlabel" href="dir_000158_000000.html" title="1" alt="" coords="79,128,88,142"/>
-<area shape="rect" id="node3" href="dir_d44c64559bbebec7f509842c48db8b23.html" title="include" alt="" coords="65,244,137,292"/>
-<area shape="rect" id="edge3-headlabel" href="dir_000158_000045.html" title="7" alt="" coords="118,221,127,236"/>
-<area shape="rect" id="edge1-headlabel" href="dir_000000_000045.html" title="403" alt="" coords="78,217,103,231"/>
-<area shape="rect" id="clust1" href="dir_92c7f67cb3c5543bedd789d030bdbcd3.html" title="doca_flow" alt="" coords="16,16,187,111"/>
-</map>

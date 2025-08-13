@@ -1,9 +1,0 @@
-<map id="samples/doca_flow/flow_switch_to_wire" name="samples/doca_flow/flow_switch_to_wire">
-<area shape="rect" id="node1" href="dir_1d1bacb0d403013e6c0d1bd75bcc0fc2.html" title="flow_switch_to_wire" alt="" coords="27,52,181,100"/>
-<area shape="rect" id="node2" href="dir_a6e4fee11f07c3b70486e88fe92cbbdc.html" title="applications" alt="" coords="9,148,111,196"/>
-<area shape="rect" id="edge2-headlabel" href="dir_000205_000000.html" title="1" alt="" coords="81,128,91,142"/>
-<area shape="rect" id="node3" href="dir_d44c64559bbebec7f509842c48db8b23.html" title="include" alt="" coords="68,244,140,292"/>
-<area shape="rect" id="edge3-headlabel" href="dir_000205_000045.html" title="8" alt="" coords="120,221,130,236"/>
-<area shape="rect" id="edge1-headlabel" href="dir_000000_000045.html" title="403" alt="" coords="80,217,106,231"/>
-<area shape="rect" id="clust1" href="dir_92c7f67cb3c5543bedd789d030bdbcd3.html" title="doca_flow" alt="" coords="16,16,192,111"/>
-</map>
